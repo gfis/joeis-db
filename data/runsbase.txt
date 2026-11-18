@@ -1,0 +1,2392 @@
+A038350	basdig2	1	-1	  		basdig2
+A038351	basdig2	1	-1	  		basdig2
+A038352	basdig2	1	-1	  		basdig2
+A038353	basdig2	1	-1	  		basdig2
+A038354	basdig2	1	-1	  		basdig2
+A038355	basdig2	1	-1	  		basdig2
+A038356	basdig2	1	-1	  		basdig2
+A039000	basdig2	1	-1	  		basdig2
+A039001	basdig2	1	-1	  		basdig2
+A039002	basdig2	1	-1	  		basdig2
+A039003	basdig2	1	-1	  		basdig2
+A039004	basdig2	1	-1	  		basdig2
+A039005	basdig2	1	-1	  		basdig2
+A039006	basdig2	1	-1	  		basdig2
+A039007	basdig2	1	-1	  		basdig2
+A039008	basdig2	1	-1	  		basdig2
+A039009	basdig2	1	-1	  		basdig2
+A039010	basdig2	1	-1	  		basdig2
+A039011	basdig2	1	-1	  		basdig2
+A039012	basdig2	1	-1	  		basdig2
+A039013	basdig2	1	-1	  		basdig2
+A039014	basdig2	1	-1	  		basdig2
+A039015	basdig2	1	-1	  		basdig2
+A039016	basdig2	1	-1	  		basdig2
+A039017	basdig2	1	-1	  		basdig2
+A039018	basdig2	1	-1	  		basdig2
+A039019	basdig2	1	-1	  		basdig2
+A039020	basdig2	1	-1	  		basdig2
+A039021	basdig2	1	-1	  		basdig2
+A039022	basdig2	1	-1	  		basdig2
+A039023	basdig2	1	-1	  		basdig2
+A039024	basdig2	1	-1	  		basdig2
+A039025	basdig2	1	-1	  		basdig2
+A039026	basdig2	1	-1	  		basdig2
+A039027	basdig2	1	-1	  		basdig2
+A039028	basdig2	1	-1	  		basdig2
+A039029	basdig2	1	-1	  		basdig2
+A039030	basdig2	1	-1	  		basdig2
+A039031	basdig2	1	-1	  		basdig2
+A039032	basdig2	1	-1	  		basdig2
+A039033	basdig2	1	-1	  		basdig2
+A039034	basdig2	1	-1	  		basdig2
+A039035	basdig2	1	-1	  		basdig2
+A039036	basdig2	1	-1	  		basdig2
+A039037	basdig2	1	-1	  		basdig2
+A039038	basdig2	1	-1	  		basdig2
+A039039	basdig2	1	-1	  		basdig2
+A039040	basdig2	1	-1	  		basdig2
+A039041	basdig2	1	-1	  		basdig2
+A039042	basdig2	1	-1	  		basdig2
+A039043	basdig2	1	-1	  		basdig2
+A039044	basdig2	1	-1	  		basdig2
+A039045	basdig2	1	-1	  		basdig2
+A039046	basdig2	1	-1	  		basdig2
+A039047	basdig2	1	-1	  		basdig2
+A039048	basdig2	1	-1	  		basdig2
+A039049	basdig2	1	-1	  		basdig2
+A039050	basdig2	1	-1	  		basdig2
+A039051	basdig2	1	-1	  		basdig2
+A039052	basdig2	1	-1	  		basdig2
+A039053	basdig2	1	-1	  		basdig2
+A039054	basdig2	1	-1	  		basdig2
+A039055	basdig2	1	-1	  		basdig2
+A039056	basdig2	1	-1	  		basdig2
+A039057	basdig2	1	-1	  		basdig2
+A039058	basdig2	1	-1	  		basdig2
+A039059	basdig2	1	-1	  		basdig2
+A039060	basdig2	1	-1	  		basdig2
+A039061	basdig2	1	-1	  		basdig2
+A039062	basdig2	1	-1	  		basdig2
+A039063	basdig2	1	-1	  		basdig2
+A039064	basdig2	1	-1	  		basdig2
+A039065	basdig2	1	-1	  		basdig2
+A039066	basdig2	1	-1	  		basdig2
+A039067	basdig2	1	-1	  		basdig2
+A039068	basdig2	1	-1	  		basdig2
+A039069	basdig2	1	-1	  		basdig2
+A039070	basdig2	1	-1	  		basdig2
+A039071	basdig2	1	-1	  		basdig2
+A039072	basdig2	1	-1	  		basdig2
+A039073	basdig2	1	-1	  		basdig2
+A039074	basdig2	1	-1	  		basdig2
+A039075	basdig2	1	-1	  		basdig2
+A039076	basdig2	1	-1	  		basdig2
+A039077	basdig2	1	-1	  		basdig2
+A039078	basdig2	1	-1	  		basdig2
+A039079	basdig2	1	-1	  		basdig2
+A039080	basdig2	1	-1	  		basdig2
+A039081	basdig2	1	-1	  		basdig2
+A039082	basdig2	1	-1	  		basdig2
+A039083	basdig2	1	-1	  		basdig2
+A039084	basdig2	1	-1	  		basdig2
+A039085	basdig2	1	-1	  		basdig2
+A039086	basdig2	1	-1	  		basdig2
+A039087	basdig2	1	-1	  		basdig2
+A039088	basdig2	1	-1	  		basdig2
+A039089	basdig2	1	-1	  		basdig2
+A039090	basdig2	1	-1	  		basdig2
+A039091	basdig2	1	-1	  		basdig2
+A039092	basdig2	1	-1	  		basdig2
+A039093	basdig2	1	-1	  		basdig2
+A039094	basdig2	1	-1	  		basdig2
+A039095	basdig2	1	-1	  		basdig2
+A039096	basdig2	1	-1	  		basdig2
+A039097	basdig2	1	-1	  		basdig2
+A039098	basdig2	1	-1	  		basdig2
+A039099	basdig2	1	-1	  		basdig2
+A039100	basdig2	1	-1	  		basdig2
+A039101	basdig2	1	-1	  		basdig2
+A039102	basdig2	1	-1	  		basdig2
+A039103	basdig2	1	-1	  		basdig2
+A039104	basdig2	1	-1	  		basdig2
+A039105	basdig2	1	-1	  		basdig2
+A039106	basdig2	1	-1	  		basdig2
+A039107	basdig2	1	-1	  		basdig2
+A039108	basdig2	1	-1	  		basdig2
+A039109	basdig2	1	-1	  		basdig2
+A039110	basdig2	1	-1	  		basdig2
+A039111	basdig2	1	-1	  		basdig2
+A039112	basdig2	1	-1	  		basdig2
+A039113	basdig2	1	-1	  		basdig2
+A039114	basdig2	1	-1	  		basdig2
+A039115	basdig2	1	-1	  		basdig2
+A039116	basdig2	1	-1	  		basdig2
+A039117	basdig2	1	-1	  		basdig2
+A039118	basdig2	1	-1	  		basdig2
+A039119	basdig2	1	-1	  		basdig2
+A039120	basdig2	1	-1	  		basdig2
+A039121	basdig2	1	-1	  		basdig2
+A039122	basdig2	1	-1	  		basdig2
+A039123	basdig2	1	-1	  		basdig2
+A039124	basdig2	1	-1	  		basdig2
+A039125	basdig2	1	-1	  		basdig2
+A039126	basdig2	1	-1	  		basdig2
+A039127	basdig2	1	-1	  		basdig2
+A039128	basdig2	1	-1	  		basdig2
+A039129	basdig2	1	-1	  		basdig2
+A039130	basdig2	1	-1	  		basdig2
+A039131	basdig2	1	-1	  		basdig2
+A039132	basdig2	1	-1	  		basdig2
+A039133	basdig2	1	-1	  		basdig2
+A039134	basdig2	1	-1	  		basdig2
+A039135	basdig2	1	-1	  		basdig2
+A039136	basdig2	1	-1	  		basdig2
+A039137	basdig2	1	-1	  		basdig2
+A039138	basdig2	1	-1	  		basdig2
+A039139	basdig2	1	-1	  		basdig2
+A039140	basdig2	1	-1	  		basdig2
+A039141	basdig2	1	-1	  		basdig2
+A039142	basdig2	1	-1	  		basdig2
+A039143	basdig2	1	-1	  		basdig2
+A039144	basdig2	1	-1	  		basdig2
+A039145	basdig2	1	-1	  		basdig2
+A039146	basdig2	1	-1	  		basdig2
+A039147	basdig2	1	-1	  		basdig2
+A039148	basdig2	1	-1	  		basdig2
+A039149	basdig2	1	-1	  		basdig2
+A039150	basdig2	1	-1	  		basdig2
+A039151	basdig2	1	-1	  		basdig2
+A039152	basdig2	1	-1	  		basdig2
+A039153	basdig2	1	-1	  		basdig2
+A039154	basdig2	1	-1	  		basdig2
+A039155	basdig2	1	-1	  		basdig2
+A039156	basdig2	1	-1	  		basdig2
+A039157	basdig2	1	-1	  		basdig2
+A039158	basdig2	1	-1	  		basdig2
+A039159	basdig2	1	-1	  		basdig2
+A039160	basdig2	1	-1	  		basdig2
+A039161	basdig2	1	-1	  		basdig2
+A039162	basdig2	1	-1	  		basdig2
+A039163	basdig2	1	-1	  		basdig2
+A039164	basdig2	1	-1	  		basdig2
+A039165	basdig2	1	-1	  		basdig2
+A039166	basdig2	1	-1	  		basdig2
+A039167	basdig2	1	-1	  		basdig2
+A039168	basdig2	1	-1	  		basdig2
+A039169	basdig2	1	-1	  		basdig2
+A039170	basdig2	1	-1	  		basdig2
+A039171	basdig2	1	-1	  		basdig2
+A039172	basdig2	1	-1	  		basdig2
+A039173	basdig2	1	-1	  		basdig2
+A039174	basdig2	1	-1	  		basdig2
+A039175	basdig2	1	-1	  		basdig2
+A039176	basdig2	1	-1	  		basdig2
+A039177	basdig2	1	-1	  		basdig2
+A039178	basdig2	1	-1	  		basdig2
+A039179	basdig2	1	-1	  		basdig2
+A039180	basdig2	1	-1	  		basdig2
+A039181	basdig2	1	-1	  		basdig2
+A039182	basdig2	1	-1	  		basdig2
+A039183	basdig2	1	-1	  		basdig2
+A039184	basdig2	1	-1	  		basdig2
+A039185	basdig2	1	-1	  		basdig2
+A039186	basdig2	1	-1	  		basdig2
+A039187	basdig2	1	-1	  		basdig2
+A039188	basdig2	1	-1	  		basdig2
+A039189	basdig2	1	-1	  		basdig2
+A039190	basdig2	1	-1	  		basdig2
+A039191	basdig2	1	-1	  		basdig2
+A039192	basdig2	1	-1	  		basdig2
+A039193	basdig2	1	-1	  		basdig2
+A039194	basdig2	1	-1	  		basdig2
+A039195	basdig2	1	-1	  		basdig2
+A039196	basdig2	1	-1	  		basdig2
+A039197	basdig2	1	-1	  		basdig2
+A039198	basdig2	1	-1	  		basdig2
+A039199	basdig2	1	-1	  		basdig2
+A039200	basdig2	1	-1	  		basdig2
+A039201	basdig2	1	-1	  		basdig2
+A039202	basdig2	1	-1	  		basdig2
+A039203	basdig2	1	-1	  		basdig2
+A039204	basdig2	1	-1	  		basdig2
+A039205	basdig2	1	-1	  		basdig2
+A039206	basdig2	1	-1	  		basdig2
+A039207	basdig2	1	-1	  		basdig2
+A039208	basdig2	1	-1	  		basdig2
+A039209	basdig2	1	-1	  		basdig2
+A039210	basdig2	1	-1	  		basdig2
+A039211	basdig2	1	-1	  		basdig2
+A039212	basdig2	1	-1	  		basdig2
+A039213	basdig2	1	-1	  		basdig2
+A039214	basdig2	1	-1	  		basdig2
+A039215	basdig2	1	-1	  		basdig2
+A039216	basdig2	1	-1	  		basdig2
+A039217	basdig2	1	-1	  		basdig2
+A039218	basdig2	1	-1	  		basdig2
+A039219	basdig2	1	-1	  		basdig2
+A039220	basdig2	1	-1	  		basdig2
+A039221	basdig2	1	-1	  		basdig2
+A039222	basdig2	1	-1	  		basdig2
+A039223	basdig2	1	-1	  		basdig2
+A039224	basdig2	1	-1	  		basdig2
+A039225	basdig2	1	-1	  		basdig2
+A039226	basdig2	1	-1	  		basdig2
+A039227	basdig2	1	-1	  		basdig2
+A039228	basdig2	1	-1	  		basdig2
+A039229	basdig2	1	-1	  		basdig2
+A039230	basdig2	1	-1	  		basdig2
+A039231	basdig2	1	-1	  		basdig2
+A039232	basdig2	1	-1	  		basdig2
+A039233	basdig2	1	-1	  		basdig2
+A039234	basdig2	1	-1	  		basdig2
+A039235	basdig2	1	-1	  		basdig2
+A039236	basdig2	1	-1	  		basdig2
+A039237	basdig2	1	-1	  		basdig2
+A039238	basdig2	1	-1	  		basdig2
+A039239	basdig2	1	-1	  		basdig2
+A039240	basdig2	1	-1	  		basdig2
+A039241	basdig2	1	-1	  		basdig2
+A039242	basdig2	1	-1	  		basdig2
+A039243	basdig2	1	-1	  		basdig2
+A039244	basdig2	1	-1	  		basdig2
+A039245	basdig2	1	-1	  		basdig2
+A039246	basdig2	1	-1	  		basdig2
+A039247	basdig2	1	-1	  		basdig2
+A039248	basdig2	1	-1	  		basdig2
+A039249	basdig2	1	-1	  		basdig2
+A039250	basdig2	1	-1	  		basdig2
+A039251	basdig2	1	-1	  		basdig2
+A039252	basdig2	1	-1	  		basdig2
+A039253	basdig2	1	-1	  		basdig2
+A039254	basdig2	1	-1	  		basdig2
+A039255	basdig2	1	-1	  		basdig2
+A039256	basdig2	1	-1	  		basdig2
+A039257	basdig2	1	-1	  		basdig2
+A039258	basdig2	1	-1	  		basdig2
+A039259	basdig2	1	-1	  		basdig2
+A039260	basdig2	1	-1	  		basdig2
+A039261	basdig2	1	-1	  		basdig2
+A039262	basdig2	1	-1	  		basdig2
+A039263	basdig2	1	-1	  		basdig2
+A039264	basdig2	1	-1	  		basdig2
+A039265	basdig2	1	-1	  		basdig2
+A039266	basdig2	1	-1	  		basdig2
+A039267	basdig2	1	-1	  		basdig2
+A039268	basdig2	1	-1	  		basdig2
+A039269	basdig2	1	-1	  		basdig2
+A039270	basdig2	1	-1	  		basdig2
+A039271	basdig2	1	-1	  		basdig2
+A039272	basdig2	1	-1	  		basdig2
+A039273	basdig2	1	-1	  		basdig2
+A039274	basdig2	1	-1	  		basdig2
+A039275	basdig2	1	-1	  		basdig2
+A039276	basdig2	1	-1	  		basdig2
+A039277	basdig2	1	-1	  		basdig2
+A039278	basdig2	1	-1	  		basdig2
+A039279	basdig2	1	-1	  		basdig2
+A039280	basdig2	1	-1	  		basdig2
+A039281	basdig2	1	-1	  		basdig2
+A039282	basdig2	1	-1	  		basdig2
+A039283	basdig2	1	-1	  		basdig2
+A039284	basdig2	1	-1	  		basdig2
+A039285	basdig2	1	-1	  		basdig2
+A039286	basdig2	1	-1	  		basdig2
+A039287	basdig2	1	-1	  		basdig2
+A039288	basdig2	1	-1	  		basdig2
+A039289	basdig2	1	-1	  		basdig2
+A039290	basdig2	1	-1	  		basdig2
+A039291	basdig2	1	-1	  		basdig2
+A039292	basdig2	1	-1	  		basdig2
+A039293	basdig2	1	-1	  		basdig2
+A039294	basdig2	1	-1	  		basdig2
+A039295	basdig2	1	-1	  		basdig2
+A039296	basdig2	1	-1	  		basdig2
+A039297	basdig2	1	-1	  		basdig2
+A039298	basdig2	1	-1	  		basdig2
+A039299	basdig2	1	-1	  		basdig2
+A039307	basdig2	1	-1	  		basdig2
+A039308	basdig2	1	-1	  		basdig2
+A039309	basdig2	1	-1	  		basdig2
+A039310	basdig2	1	-1	  		basdig2
+A039311	basdig2	1	-1	  		basdig2
+A039312	basdig2	1	-1	  		basdig2
+A039313	basdig2	1	-1	  		basdig2
+A039314	basdig2	1	-1	  		basdig2
+A039315	basdig2	1	-1	  		basdig2
+A039316	basdig2	1	-1	  		basdig2
+A039317	basdig2	1	-1	  		basdig2
+A039318	basdig2	1	-1	  		basdig2
+A039319	basdig2	1	-1	  		basdig2
+A039320	basdig2	1	-1	  		basdig2
+A039321	basdig2	1	-1	  		basdig2
+A039322	basdig2	1	-1	  		basdig2
+A039323	basdig2	1	-1	  		basdig2
+A039324	basdig2	1	-1	  		basdig2
+A039325	basdig2	1	-1	  		basdig2
+A039326	basdig2	1	-1	  		basdig2
+A039327	basdig2	1	-1	  		basdig2
+A039328	basdig2	1	-1	  		basdig2
+A039329	basdig2	1	-1	  		basdig2
+A039330	basdig2	1	-1	  		basdig2
+A039331	basdig2	1	-1	  		basdig2
+A039332	basdig2	1	-1	  		basdig2
+A039333	basdig2	1	-1	  		basdig2
+A039334	basdig2	1	-1	  		basdig2
+A039335	basdig2	1	-1	  		basdig2
+A039336	basdig2	1	-1	  		basdig2
+A039337	basdig2	1	-1	  		basdig2
+A039338	basdig2	1	-1	  		basdig2
+A039339	basdig2	1	-1	  		basdig2
+A039340	basdig2	1	-1	  		basdig2
+A039341	basdig2	1	-1	  		basdig2
+A039342	basdig2	1	-1	  		basdig2
+A039343	basdig2	1	-1	  		basdig2
+A039344	basdig2	1	-1	  		basdig2
+A039345	basdig2	1	-1	  		basdig2
+A039346	basdig2	1	-1	  		basdig2
+A039347	basdig2	1	-1	  		basdig2
+A039348	basdig2	1	-1	  		basdig2
+A039349	basdig2	1	-1	  		basdig2
+A039350	basdig2	1	-1	  		basdig2
+A039351	basdig2	1	-1	  		basdig2
+A039352	basdig2	1	-1	  		basdig2
+A039353	basdig2	1	-1	  		basdig2
+A039354	basdig2	1	-1	  		basdig2
+A039355	basdig2	1	-1	  		basdig2
+A039356	basdig2	1	-1	  		basdig2
+A039357	basdig2	1	-1	  		basdig2
+A039358	basdig2	1	-1	  		basdig2
+A039359	basdig2	1	-1	  		basdig2
+A039360	basdig2	1	-1	  		basdig2
+A039361	basdig2	1	-1	  		basdig2
+A039362	basdig2	1	-1	  		basdig2
+A039363	basdig2	1	-1	  		basdig2
+A039364	basdig2	1	-1	  		basdig2
+A039365	basdig2	1	-1	  		basdig2
+A039366	basdig2	1	-1	  		basdig2
+A039367	basdig2	1	-1	  		basdig2
+A039368	basdig2	1	-1	  		basdig2
+A039369	basdig2	1	-1	  		basdig2
+A039370	basdig2	1	-1	  		basdig2
+A039371	basdig2	1	-1	  		basdig2
+A039372	basdig2	1	-1	  		basdig2
+A039373	basdig2	1	-1	  		basdig2
+A039374	basdig2	1	-1	  		basdig2
+A039375	basdig2	1	-1	  		basdig2
+A039376	basdig2	1	-1	  		basdig2
+A039377	basdig2	1	-1	  		basdig2
+A039378	basdig2	1	-1	  		basdig2
+A039379	basdig2	1	-1	  		basdig2
+A039380	basdig2	1	-1	  		basdig2
+A039381	basdig2	1	-1	  		basdig2
+A039382	basdig2	1	-1	  		basdig2
+A039383	basdig2	1	-1	  		basdig2
+A039384	basdig2	1	-1	  		basdig2
+A039385	basdig2	1	-1	  		basdig2
+A039386	basdig2	1	-1	  		basdig2
+A039387	basdig2	1	-1	  		basdig2
+A039388	basdig2	1	-1	  		basdig2
+A039389	basdig2	1	-1	  		basdig2
+A039390	basdig2	1	-1	  		basdig2
+A039391	basdig2	1	-1	  		basdig2
+A039392	basdig2	1	-1	  		basdig2
+A039393	basdig2	1	-1	  		basdig2
+A039394	basdig2	1	-1	  		basdig2
+A039395	basdig2	1	-1	  		basdig2
+A039396	basdig2	1	-1	  		basdig2
+A039397	basdig2	1	-1	  		basdig2
+A039398	basdig2	1	-1	  		basdig2
+A039399	basdig2	1	-1	  		basdig2
+A039400	basdig2	1	-1	  		basdig2
+A039401	basdig2	1	-1	  		basdig2
+A039402	basdig2	1	-1	  		basdig2
+A039403	basdig2	1	-1	  		basdig2
+A039404	basdig2	1	-1	  		basdig2
+A039405	basdig2	1	-1	  		basdig2
+A039406	basdig2	1	-1	  		basdig2
+A039407	basdig2	1	-1	  		basdig2
+A039408	basdig2	1	-1	  		basdig2
+A039409	basdig2	1	-1	  		basdig2
+A039410	basdig2	1	-1	  		basdig2
+A039411	basdig2	1	-1	  		basdig2
+A039412	basdig2	1	-1	  		basdig2
+A039413	basdig2	1	-1	  		basdig2
+A039414	basdig2	1	-1	  		basdig2
+A039415	basdig2	1	-1	  		basdig2
+A039416	basdig2	1	-1	  		basdig2
+A039417	basdig2	1	-1	  		basdig2
+A039418	basdig2	1	-1	  		basdig2
+A039419	basdig2	1	-1	  		basdig2
+A039420	basdig2	1	-1	  		basdig2
+A039421	basdig2	1	-1	  		basdig2
+A039422	basdig2	1	-1	  		basdig2
+A039423	basdig2	1	-1	  		basdig2
+A039424	basdig2	1	-1	  		basdig2
+A039425	basdig2	1	-1	  		basdig2
+A039426	basdig2	1	-1	  		basdig2
+A039427	basdig2	1	-1	  		basdig2
+A039428	basdig2	1	-1	  		basdig2
+A039429	basdig2	1	-1	  		basdig2
+A039430	basdig2	1	-1	  		basdig2
+A039431	basdig2	1	-1	  		basdig2
+A039432	basdig2	1	-1	  		basdig2
+A039433	basdig2	1	-1	  		basdig2
+A039434	basdig2	1	-1	  		basdig2
+A039435	basdig2	1	-1	  		basdig2
+A039436	basdig2	1	-1	  		basdig2
+A039437	basdig2	1	-1	  		basdig2
+A039438	basdig2	1	-1	  		basdig2
+A039439	basdig2	1	-1	  		basdig2
+A039440	basdig2	1	-1	  		basdig2
+A039441	basdig2	1	-1	  		basdig2
+A039442	basdig2	1	-1	  		basdig2
+A039443	basdig2	1	-1	  		basdig2
+A039444	basdig2	1	-1	  		basdig2
+A039445	basdig2	1	-1	  		basdig2
+A039446	basdig2	1	-1	  		basdig2
+A039447	basdig2	1	-1	  		basdig2
+A039448	basdig2	1	-1	  		basdig2
+A039449	basdig2	1	-1	  		basdig2
+A039450	basdig2	1	-1	  		basdig2
+A039451	basdig2	1	-1	  		basdig2
+A039452	basdig2	1	-1	  		basdig2
+A039453	basdig2	1	-1	  		basdig2
+A039454	basdig2	1	-1	  		basdig2
+A039455	basdig2	1	-1	  		basdig2
+A039456	basdig2	1	-1	  		basdig2
+A039457	basdig2	1	-1	  		basdig2
+A039458	basdig2	1	-1	  		basdig2
+A039459	basdig2	1	-1	  		basdig2
+A039460	basdig2	1	-1	  		basdig2
+A039461	basdig2	1	-1	  		basdig2
+A039462	basdig2	1	-1	  		basdig2
+A039463	basdig2	1	-1	  		basdig2
+A039464	basdig2	1	-1	  		basdig2
+A039465	basdig2	1	-1	  		basdig2
+A039466	basdig2	1	-1	  		basdig2
+A039467	basdig2	1	-1	  		basdig2
+A039468	basdig2	1	-1	  		basdig2
+A039469	basdig2	1	-1	  		basdig2
+A039470	basdig2	1	-1	  		basdig2
+A039471	basdig2	1	-1	  		basdig2
+A039472	basdig2	1	-1	  		basdig2
+A039473	basdig2	1	-1	  		basdig2
+A039474	basdig2	1	-1	  		basdig2
+A039475	basdig2	1	-1	  		basdig2
+A039476	basdig2	1	-1	  		basdig2
+A039477	basdig2	1	-1	  		basdig2
+A039478	basdig2	1	-1	  		basdig2
+A039479	basdig2	1	-1	  		basdig2
+A039480	basdig2	1	-1	  		basdig2
+A039481	basdig2	1	-1	  		basdig2
+A039482	basdig2	1	-1	  		basdig2
+A039483	basdig2	1	-1	  		basdig2
+A039484	basdig2	1	-1	  		basdig2
+A039485	basdig2	1	-1	  		basdig2
+A039486	basdig2	1	-1	  		basdig2
+A039487	basdig2	1	-1	  		basdig2
+A039488	basdig2	1	-1	  		basdig2
+A039489	basdig2	1	-1	  		basdig2
+A039490	basdig2	1	-1	  		basdig2
+A039491	basdig2	1	-1	  		basdig2
+A039492	basdig2	1	-1	  		basdig2
+A039493	basdig2	1	-1	  		basdig2
+A039494	basdig2	1	-1	  		basdig2
+A039495	basdig2	1	-1	  		basdig2
+A039496	basdig2	1	-1	  		basdig2
+A039497	basdig2	1	-1	  		basdig2
+A039498	basdig2	1	-1	  		basdig2
+A039499	basdig2	1	-1	  		basdig2
+A039516	basdig2	1	-1	  		basdig2
+A039517	basdig2	1	-1	  		basdig2
+A039518	basdig2	1	-1	  		basdig2
+A039519	basdig2	1	-1	  		basdig2
+A039520	basdig2	1	-1	  		basdig2
+A039521	basdig2	1	-1	  		basdig2
+A039522	basdig2	1	-1	  		basdig2
+A039523	basdig2	1	-1	  		basdig2
+A039524	basdig2	1	-1	  		basdig2
+A039525	basdig2	1	-1	  		basdig2
+A039526	basdig2	1	-1	  		basdig2
+A039527	basdig2	1	-1	  		basdig2
+A039528	basdig2	1	-1	  		basdig2
+A039529	basdig2	1	-1	  		basdig2
+A039530	basdig2	1	-1	  		basdig2
+A039531	basdig2	1	-1	  		basdig2
+A039532	basdig2	1	-1	  		basdig2
+A039533	basdig2	1	-1	  		basdig2
+A039534	basdig2	1	-1	  		basdig2
+A039535	basdig2	1	-1	  		basdig2
+A039536	basdig2	1	-1	  		basdig2
+A039537	basdig2	1	-1	  		basdig2
+A039538	basdig2	1	-1	  		basdig2
+A039539	basdig2	1	-1	  		basdig2
+A039540	basdig2	1	-1	  		basdig2
+A039541	basdig2	1	-1	  		basdig2
+A039542	basdig2	1	-1	  		basdig2
+A039543	basdig2	1	-1	  		basdig2
+A039544	basdig2	1	-1	  		basdig2
+A039545	basdig2	1	-1	  		basdig2
+A039546	basdig2	1	-1	  		basdig2
+A039547	basdig2	1	-1	  		basdig2
+A039548	basdig2	1	-1	  		basdig2
+A039549	basdig2	1	-1	  		basdig2
+A039550	basdig2	1	-1	  		basdig2
+A039551	basdig2	1	-1	  		basdig2
+A039552	basdig2	1	-1	  		basdig2
+A039553	basdig2	1	-1	  		basdig2
+A039554	basdig2	1	-1	  		basdig2
+A039555	basdig2	1	-1	  		basdig2
+A039556	basdig2	1	-1	  		basdig2
+A039557	basdig2	1	-1	  		basdig2
+A039558	basdig2	1	-1	  		basdig2
+A039559	basdig3	1	-1	  		basdig3
+A039560	basdig3	1	-1	  		basdig3
+A039561	basdig3	1	-1	  		basdig3
+A039562	basdig3	1	-1	  		basdig3
+A039563	basdig3	1	-1	  		basdig3
+A039564	basdig3	1	-1	  		basdig3
+A039565	basdig3	1	-1	  		basdig3
+A039566	basdig3	1	-1	  		basdig3
+A039567	basdig3	1	-1	  		basdig3
+A039568	basdig3	1	-1	  		basdig3
+A039569	basdig3	1	-1	  		basdig3
+A039570	basdig3	1	-1	  		basdig3
+A039571	basdig3	1	-1	  		basdig3
+A039572	basdig3	1	-1	  		basdig3
+A039573	basdig3	1	-1	  		basdig3
+A039574	basdig3	1	-1	  		basdig3
+A039575	basdig3	1	-1	  		basdig3
+A039576	basdig3	1	-1	  		basdig3
+A039577	basdig3	1	-1	  		basdig3
+A039578	basdig3	1	-1	  		basdig3
+A039579	basdig3	1	-1	  		basdig3
+A039580	basdig3	1	-1	  		basdig3
+A039581	basdig3	1	-1	  		basdig3
+A039582	basdig3	1	-1	  		basdig3
+A039583	basdig3	1	-1	  		basdig3
+A039584	basdig3	1	-1	  		basdig3
+A039585	basdig3	1	-1	  		basdig3
+A039586	basdig3	1	-1	  		basdig3
+A039587	basdig3	1	-1	  		basdig3
+A039588	basdig3	1	-1	  		basdig3
+A039589	basdig3	1	-1	  		basdig3
+A039590	basdig3	1	-1	  		basdig3
+A039591	basdig3	1	-1	  		basdig3
+A039592	basdig3	1	-1	  		basdig3
+A039600	basdig2	1	-1	  		basdig2
+A039601	basdig2	1	-1	  		basdig2
+A039602	basdig2	1	-1	  		basdig2
+A039603	basdig2	1	-1	  		basdig2
+A039604	basdig2	1	-1	  		basdig2
+A039605	basdig2	1	-1	  		basdig2
+A039606	basdig2	1	-1	  		basdig2
+A039607	basdig2	1	-1	  		basdig2
+A039608	basdig2	1	-1	  		basdig2
+A039609	basdig2	1	-1	  		basdig2
+A039610	basdig2	1	-1	  		basdig2
+A039611	basdig2	1	-1	  		basdig2
+A039612	basdig2	1	-1	  		basdig2
+A039613	basdig2	1	-1	  		basdig2
+A039614	basdig2	1	-1	  		basdig2
+A039615	basdig2	1	-1	  		basdig2
+A043321	basdig1	1	0	  		basdig1
+A043322	basdig1	1	0	  		basdig1
+A043323	basdig1	1	0	  		basdig1
+A043324	basdig1	1	0	  		basdig1
+A043333	basdig1	1	0	  		basdig1
+A043336	basdig1	1	0	  		basdig1
+A043340	basdig1	1	0	  		basdig1
+A043344	basdig1	1	0	  		basdig1
+A043348	basdig1	1	0	  		basdig1
+A043349	basdig1	1	0	  		basdig1
+A043352	basdig1	1	0	  		basdig1
+A043356	basdig1	1	0	  		basdig1
+A043360	basdig1	1	0	  		basdig1
+A043364	basdig1	1	0	  		basdig1
+A043368	basdig1	1	0	  		basdig1
+A043369	basdig1	1	0	  		basdig1
+A043370	basdig1	1	0	  		basdig1
+A043371	basdig1	1	0	  		basdig1
+A043372	basdig1	1	0	  		basdig1
+A043373	basdig1	1	0	  		basdig1
+A043374	basdig1	1	0	  		basdig1
+A043375	basdig1	1	0	  		basdig1
+A043376	basdig1	1	0	  		basdig1
+A043377	basdig1	1	0	  		basdig1
+A043378	basdig1	1	0	  		basdig1
+A043379	basdig1	1	0	  		basdig1
+A043380	basdig1	1	0	  		basdig1
+A043381	basdig1	1	0	  		basdig1
+A043382	basdig1	1	0	  		basdig1
+A043383	basdig1	1	0	  		basdig1
+A043384	basdig1	1	0	  		basdig1
+A043385	basdig1	1	0	  		basdig1
+A043386	basdig1	1	0	  		basdig1
+A043387	basdig1	1	0	  		basdig1
+A043388	basdig1	1	0	  		basdig1
+A043389	basdig1	1	0	  		basdig1
+A043390	basdig1	1	0	  		basdig1
+A043391	basdig1	1	0	  		basdig1
+A043392	basdig1	1	0	  		basdig1
+A043393	basdig1	1	0	  		basdig1
+A043394	basdig1	1	0	  		basdig1
+A043395	basdig1	1	0	  		basdig1
+A043396	basdig1	1	0	  		basdig1
+A043397	basdig1	1	0	  		basdig1
+A043398	basdig1	1	0	  		basdig1
+A043399	basdig1	1	0	  		basdig1
+A043400	basdig1	1	0	  		basdig1
+A043401	basdig1	1	0	  		basdig1
+A043402	basdig1	1	0	  		basdig1
+A043403	basdig1	1	0	  		basdig1
+A043404	basdig1	1	0	  		basdig1
+A043405	basdig1	1	0	  		basdig1
+A043406	basdig1	1	0	  		basdig1
+A043407	basdig1	1	0	  		basdig1
+A043408	basdig1	1	0	  		basdig1
+A043409	basdig1	1	0	  		basdig1
+A043410	basdig1	1	0	  		basdig1
+A043411	basdig1	1	0	  		basdig1
+A043412	basdig1	1	0	  		basdig1
+A043413	basdig1	1	0	  		basdig1
+A043414	basdig1	1	0	  		basdig1
+A043415	basdig1	1	0	  		basdig1
+A043416	basdig1	1	0	  		basdig1
+A043417	basdig1	1	0	  		basdig1
+A043418	basdig1	1	0	  		basdig1
+A043419	basdig1	1	0	  		basdig1
+A043420	basdig1	1	0	  		basdig1
+A043421	basdig1	1	0	  		basdig1
+A043422	basdig1	1	0	  		basdig1
+A043423	basdig1	1	0	  		basdig1
+A043424	basdig1	1	0	  		basdig1
+A043425	basdig1	1	0	  		basdig1
+A043426	basdig1	1	0	  		basdig1
+A043427	basdig1	1	0	  		basdig1
+A043428	basdig1	1	0	  		basdig1
+A043429	basdig1	1	0	  		basdig1
+A043430	basdig1	1	0	  		basdig1
+A043431	basdig1	1	0	  		basdig1
+A043432	basdig1	1	0	  		basdig1
+A043433	basdig1	1	0	  		basdig1
+A043434	basdig1	1	0	  		basdig1
+A043435	basdig1	1	0	  		basdig1
+A043436	basdig1	1	0	  		basdig1
+A043437	basdig1	1	0	  		basdig1
+A043438	basdig1	1	0	  		basdig1
+A043439	basdig1	1	0	  		basdig1
+A043440	basdig1	1	0	  		basdig1
+A043441	basdig1	1	0	  		basdig1
+A043442	basdig1	1	0	  		basdig1
+A043443	basdig1	1	0	  		basdig1
+A043444	basdig1	1	0	  		basdig1
+A043445	basdig1	1	0	  		basdig1
+A043446	basdig1	1	0	  		basdig1
+A043447	basdig1	1	0	  		basdig1
+A043448	basdig1	1	0	  		basdig1
+A043449	basdig1	1	0	  		basdig1
+A043450	basdig1	1	0	  		basdig1
+A043451	basdig1	1	0	  		basdig1
+A043452	basdig1	1	0	  		basdig1
+A043453	basdig1	1	0	  		basdig1
+A043454	basdig1	1	0	  		basdig1
+A043455	basdig1	1	0	  		basdig1
+A043456	basdig1	1	0	  		basdig1
+A043457	basdig1	1	0	  		basdig1
+A043458	basdig1	1	0	  		basdig1
+A043459	basdig1	1	0	  		basdig1
+A043460	basdig1	1	0	  		basdig1
+A043461	basdig1	1	0	  		basdig1
+A043462	basdig1	1	0	  		basdig1
+A043463	basdig1	1	0	  		basdig1
+A043464	basdig1	1	0	  		basdig1
+A043465	basdig1	1	0	  		basdig1
+A043466	basdig1	1	0	  		basdig1
+A043467	basdig1	1	0	  		basdig1
+A043468	basdig1	1	0	  		basdig1
+A043469	basdig1	1	0	  		basdig1
+A043470	basdig1	1	0	  		basdig1
+A043471	basdig1	1	0	  		basdig1
+A043472	basdig1	1	0	  		basdig1
+A043473	basdig1	1	0	  		basdig1
+A043474	basdig1	1	0	  		basdig1
+A043475	basdig1	1	0	  		basdig1
+A043476	basdig1	1	0	  		basdig1
+A043477	basdig1	1	0	  		basdig1
+A043478	basdig1	1	0	  		basdig1
+A043479	basdig1	1	0	  		basdig1
+A043480	basdig1	1	0	  		basdig1
+A043481	basdig1	1	0	  		basdig1
+A043482	basdig1	1	0	  		basdig1
+A043483	basdig1	1	0	  		basdig1
+A043484	basdig1	1	0	  		basdig1
+A043485	basdig1	1	0	  		basdig1
+A043486	basdig1	1	0	  		basdig1
+A043487	basdig1	1	0	  		basdig1
+A043488	basdig1	1	0	  		basdig1
+A043489	basdig1	1	0 - 1	  		basdig1
+A043490	basdig1	1	0	  		basdig1
+A043491	basdig1	1	0	  		basdig1
+A043492	basdig1	1	0	  		basdig1
+A043493	basdig1	1	0	  		basdig1
+A043494	basdig1	1	0	  		basdig1
+A043495	basdig1	1	0	  		basdig1
+A043496	basdig1	1	0	  		basdig1
+A043497	basdig1	1	0	  		basdig1
+A043498	basdig1	1	0	  		basdig1
+A043499	basdig1	1	0	  		basdig1
+A043500	basdig1	1	0	  		basdig1
+A043501	basdig1	1	0	  		basdig1
+A043502	basdig1	1	0	  		basdig1
+A043503	basdig1	1	0	  		basdig1
+A043504	basdig1	1	0	  		basdig1
+A043505	basdig1	1	0	  		basdig1
+A043506	basdig1	1	0	  		basdig1
+A043507	basdig1	1	0	  		basdig1
+A043508	basdig1	1	0	  		basdig1
+A043509	basdig1	1	0	  		basdig1
+A043510	basdig1	1	0	  		basdig1
+A043511	basdig1	1	0	  		basdig1
+A043512	basdig1	1	0	  		basdig1
+A043513	basdig1	1	0	  		basdig1
+A043514	basdig1	1	0	  		basdig1
+A043515	basdig1	1	0	  		basdig1
+A043516	basdig1	1	0	  		basdig1
+A043517	basdig1	1	0	  		basdig1
+A043518	basdig1	1	0	  		basdig1
+A043519	basdig1	1	0	  		basdig1
+A043520	basdig1	1	0	  		basdig1
+A043521	basdig1	1	0	  		basdig1
+A043522	basdig1	1	0	  		basdig1
+A043523	basdig1	1	0	  		basdig1
+A043524	basdig1	1	0	  		basdig1
+A043525	basdig1	1	0	  		basdig1
+A043526	basdig1	1	0	  		basdig1
+A043527	basdig1	1	0	  		basdig1
+A043528	basdig1	1	0	  		basdig1
+A043555	basrun	0	-1	  		basrun
+A043556	basrun	0	-1	  		basrun
+A043557	basrun	0	-1	  		basrun
+A043558	basrun	0	-1	  		basrun
+A043559	basrun	0	-1	  		basrun
+A043560	basrun	0	-1	  		basrun
+A043561	basrun	0	-1	  		basrun
+A043562	basrun	0	-1	  		basrun
+A043563	basrun	0	-1	  		basrun
+A043564	basrun	0	-1	  		basrun
+A043565	basrun	0	-1	  		basrun
+A043566	basrun	0	-1	  		basrun
+A043567	basrun	0	-1	  		basrun
+A043568	basrun	0	-1	  		basrun
+A043569	basruneq	0	1	    mK = ensureWidth(2, 2		basruneq
+A043570	basruneq	0	1	    mK = ensureWidth(3, 2		basruneq
+A043571	basruneq	0	1	    mK = ensureWidth(4, 2		basruneq
+A043572	basruneq	0	1	    mK = ensureWidth(5, 2		basruneq
+A043573	basruneq	0	1	    mK = ensureWidth(6, 2		basruneq
+A043574	basruneq	0	1	    mK = ensureWidth(7, 2		basruneq
+A043575	basruneq	0	1	    mK = ensureWidth(8, 2		basruneq
+A043576	basruneq	0	1	    mK = ensureWidth(9, 2		basruneq
+A043577	basruneq	0	1	    mK = ensureWidth(10, 2		basruneq
+A043578	basruneq	0	1	    mK = ensureWidth(11, 2		basruneq
+A043579	basruneq	0	1	    mK = ensureWidth(12, 2		basruneq
+A043580	basruneq	0	1	    mK = ensureWidth(13, 2		basruneq
+A043581	basruneq	0	1	    mK = ensureWidth(14, 2		basruneq
+A043582	basruneq	0	1	    mK = ensureWidth(2, 3		basruneq
+A043583	basruneq	0	1	    mK = ensureWidth(3, 3		basruneq
+A043584	basruneq	0	1	    mK = ensureWidth(4, 3		basruneq
+A043585	basruneq	0	1	    mK = ensureWidth(5, 3		basruneq
+A043586	basruneq	0	1	    mK = ensureWidth(6, 3		basruneq
+A043587	basruneq	0	1	    mK = ensureWidth(7, 3		basruneq
+A043588	basruneq	0	1	    mK = ensureWidth(8, 3		basruneq
+A043589	basruneq	0	1	    mK = ensureWidth(9, 3		basruneq
+A043590	basruneq	0	1	    mK = ensureWidth(10, 3		basruneq
+A043591	basruneq	0	1	    mK = ensureWidth(11, 3		basruneq
+A043592	basruneq	0	1	    mK = ensureWidth(12, 3		basruneq
+A043593	basruneq	0	1	    mK = ensureWidth(2, 4		basruneq
+A043594	basruneq	0	1	    mK = ensureWidth(3, 4		basruneq
+A043595	basruneq	0	1	    mK = ensureWidth(4, 4		basruneq
+A043596	basruneq	0	1	    mK = ensureWidth(5, 4		basruneq
+A043597	basruneq	0	1	    mK = ensureWidth(6, 4		basruneq
+A043598	basruneq	0	1	    mK = ensureWidth(7, 4		basruneq
+A043599	basruneq	0	1	    mK = ensureWidth(8, 4		basruneq
+A043600	basruneq	0	1	    mK = ensureWidth(9, 4		basruneq
+A043601	basruneq	0	1	    mK = ensureWidth(10, 4		basruneq
+A043602	basruneq	0	1	    mK = ensureWidth(2, 5		basruneq
+A043603	basruneq	0	1	    mK = ensureWidth(3, 5		basruneq
+A043604	basruneq	0	1	    mK = ensureWidth(4, 5		basruneq
+A043605	basruneq	0	1	    mK = ensureWidth(5, 5		basruneq
+A043606	basruneq	0	1	    mK = ensureWidth(6, 5		basruneq
+A043607	basruneq	0	1	    mK = ensureWidth(7, 5		basruneq
+A043608	basruneq	0	1	    mK = ensureWidth(8, 5		basruneq
+A043609	basruneq	0	1	    mK = ensureWidth(9, 5		basruneq
+A043610	basruneq	0	1	    mK = ensureWidth(2, 6		basruneq
+A043611	basruneq	0	1	    mK = ensureWidth(3, 6		basruneq
+A043612	basruneq	0	1	    mK = ensureWidth(4, 6		basruneq
+A043613	basruneq	0	1	    mK = ensureWidth(5, 6		basruneq
+A043614	basruneq	0	1	    mK = ensureWidth(6, 6		basruneq
+A043615	basruneq	0	1	    mK = ensureWidth(7, 6		basruneq
+A043616	basruneq	0	1	    mK = ensureWidth(8, 6		basruneq
+A043617	basruneq	0	1	    mK = ensureWidth(2, 7		basruneq
+A043618	basruneq	0	1	    mK = ensureWidth(3, 7		basruneq
+A043619	basruneq	0	1	    mK = ensureWidth(4, 7		basruneq
+A043620	basruneq	0	1	    mK = ensureWidth(5, 7		basruneq
+A043621	basruneq	0	1	    mK = ensureWidth(6, 7		basruneq
+A043622	basruneq	0	1	    mK = ensureWidth(7, 7		basruneq
+A043623	basruneq	0	1	    mK = ensureWidth(8, 7		basruneq
+A043624	basruneq	0	1	    mK = ensureWidth(2, 8		basruneq
+A043625	basruneq	0	1	    mK = ensureWidth(3, 8		basruneq
+A043626	basruneq	0	1	    mK = ensureWidth(4, 8		basruneq
+A043627	basruneq	0	1	    mK = ensureWidth(5, 8		basruneq
+A043628	basruneq	0	1	    mK = ensureWidth(6, 8		basruneq
+A043629	basruneq	0	1	    mK = ensureWidth(7, 8		basruneq
+A043630	basruneq	0	1	    mK = ensureWidth(8, 8		basruneq
+A043631	basruneq	0	1	    mK = ensureWidth(2, 9		basruneq
+A043632	basruneq	0	1	    mK = ensureWidth(3, 9		basruneq
+A043633	basruneq	0	1	    mK = ensureWidth(4, 9		basruneq
+A043634	basruneq	0	1	    mK = ensureWidth(5, 9		basruneq
+A043635	basruneq	0	1	    mK = ensureWidth(6, 9		basruneq
+A043636	basruneq	0	1	    mK = ensureWidth(7, 9		basruneq
+A043637	basruneq	0	1	    mK = ensureWidth(8, 9		basruneq
+A043638	basruneq	0	1	    mK = ensureWidth(2, 10		basruneq
+A043639	basruneq	0	1	    mK = ensureWidth(3, 10		basruneq
+A043640	basruneq	0	1	    mK = ensureWidth(4, 10		basruneq
+A043641	basruneq	0	1	    mK = ensureWidth(5, 10		basruneq
+A043642	basruneq	0	1	    mK = ensureWidth(6, 10		basruneq
+A043643	basruneq	0	1	    mK = ensureWidth(7, 10		basruneq
+A043644	basruneq	0	1	    mK = ensureWidth(8, 10		basruneq
+A043645	basruneq	0	1	    mK = ensureWidth(2, 11		basruneq
+A043646	basruneq	0	1	    mK = ensureWidth(3, 11		basruneq
+A043647	basruneq	0	1	    mK = ensureWidth(4, 11		basruneq
+A043648	basruneq	0	1	    mK = ensureWidth(5, 11		basruneq
+A043649	basruneq	0	1	    mK = ensureWidth(6, 11		basruneq
+A043650	basruneq	0	1	    mK = ensureWidth(7, 11		basruneq
+A043651	basruneq	0	1	    mK = ensureWidth(2, 12		basruneq
+A043652	basruneq	0	1	    mK = ensureWidth(3, 12		basruneq
+A043653	basruneq	0	1	    mK = ensureWidth(4, 12		basruneq
+A043654	basruneq	0	1	    mK = ensureWidth(5, 12		basruneq
+A043655	basruneq	0	1	    mK = ensureWidth(6, 12		basruneq
+A043656	basruneq	0	1	    mK = ensureWidth(7, 12		basruneq
+A043657	basruneq	0	1	    mK = ensureWidth(2, 13		basruneq
+A043658	basruneq	0	1	    mK = ensureWidth(3, 13		basruneq
+A043659	basruneq	0	1	    mK = ensureWidth(4, 13		basruneq
+A043660	basruneq	0	1	    mK = ensureWidth(5, 13		basruneq
+A043661	basruneq	0	1	    mK = ensureWidth(6, 13		basruneq
+A043662	basruneq	0	1	    mK = ensureWidth(7, 13		basruneq
+A043663	basruneq	0	1	    mK = ensureWidth(2, 14		basruneq
+A043664	basruneq	0	1	    mK = ensureWidth(3, 14		basruneq
+A043665	basruneq	0	1	    mK = ensureWidth(4, 14		basruneq
+A043666	basruneq	0	1	    mK = ensureWidth(5, 14		basruneq
+A043667	basruneq	0	1	    mK = ensureWidth(6, 14		basruneq
+A043668	basruneq	0	1	    mK = ensureWidth(7, 14		basruneq
+A043669	basruneq	0	1	    mK = ensureWidth(2, 15		basruneq
+A043670	basruneq	0	1	    mK = ensureWidth(3, 15		basruneq
+A043671	basruneq	0	1	    mK = ensureWidth(4, 15		basruneq
+A043672	basruneq	0	1	    mK = ensureWidth(5, 15		basruneq
+A043673	basruneq	0	1	    mK = ensureWidth(6, 15		basruneq
+A043674	basruneq	0	1	    mK = ensureWidth(7, 15		basruneq
+A043675	basruneq	0	1	    mK = ensureWidth(2, 16		basruneq
+A043676	basruneq	0	1	    mK = ensureWidth(3, 16		basruneq
+A043677	basruneq	0	1	    mK = ensureWidth(4, 16		basruneq
+A043678	basruneq	0	1	    mK = ensureWidth(5, 16		basruneq
+A043679	basruneq	0	1	    mK = ensureWidth(6, 16		basruneq
+A043680	basruneq	0	1	    mK = ensureWidth(7, 16		basruneq
+A043692	basrunpar	0	1	  		basrunpar
+A043693	basrunpar	0	1	  		basrunpar
+A043694	basrunpar	0	1	  		basrunpar
+A043695	basrunpar	0	1	  		basrunpar
+A043696	basrunpar	0	1	  		basrunpar
+A043697	basrunpar	0	1	  		basrunpar
+A043698	basrunpar	0	1	  		basrunpar
+A043700	basrunpar	0	1	  		basrunpar
+A043701	basrunpar	0	1	  		basrunpar
+A043702	basrunpar	0	1	  		basrunpar
+A043703	basrunpar	0	1	  		basrunpar
+A043704	basrunpar	0	1	  		basrunpar
+A043705	basrunpar	0	1	  		basrunpar
+A043706	basrunpar	0	1	  		basrunpar
+A043707	basrunpar	0	1	  		basrunpar
+A043708	basrunpar	0	1	  		basrunpar
+A043709	basrunpar	0	1	  		basrunpar
+A043710	basrunpar	0	1	  		basrunpar
+A043711	basrunpar	0	1	  		basrunpar
+A043712	basrunpar	0	1	  		basrunpar
+A043713	basrunpar	0	1	  		basrunpar
+A043714	basrunpar	0	1	  		basrunpar
+A043715	basrunpar	0	1	  		basrunpar
+A043716	basrunpar	0	1	  		basrunpar
+A043717	basrunpar	0	1	  		basrunpar
+A043718	basrunpar	0	1	  		basrunpar
+A043719	basrunpar	0	1	  		basrunpar
+A043721	basrunmod	0	1	    // mK = ensureWidth(3, 0		basrunmod
+A043722	basrunmod	0	1	    // mK = ensureWidth(3, 1		basrunmod
+A043723	basrunmod	0	1	    // mK = ensureWidth(3, 2		basrunmod
+A043724	basrunmod	0	1	    // mK = ensureWidth(4, 0		basrunmod
+A043725	basrunmod	0	1	    // mK = ensureWidth(4, 1		basrunmod
+A043726	basrunmod	0	1	    // mK = ensureWidth(4, 2		basrunmod
+A043727	basrunmod	0	1	    // mK = ensureWidth(4, 3		basrunmod
+A043728	basrunmod	0	1	    // mK = ensureWidth(5, 0		basrunmod
+A043729	basrunmod	0	1	    // mK = ensureWidth(5, 1		basrunmod
+A043730	basrunmod	0	1	    // mK = ensureWidth(5, 2		basrunmod
+A043731	basrunmod	0	1	    // mK = ensureWidth(5, 3		basrunmod
+A043732	basrunmod	0	1	    // mK = ensureWidth(5, 4		basrunmod
+A043733	basrunmod	0	1	    // mK = ensureWidth(6, 0		basrunmod
+A043734	basrunmod	0	1	    // mK = ensureWidth(6, 1		basrunmod
+A043735	basrunmod	0	1	    // mK = ensureWidth(6, 2		basrunmod
+A043736	basrunmod	0	1	    // mK = ensureWidth(6, 3		basrunmod
+A043737	basrunmod	0	1	    // mK = ensureWidth(6, 4		basrunmod
+A043738	basrunmod	0	1	    // mK = ensureWidth(6, 5		basrunmod
+A043739	basrunmod	0	1	    // mK = ensureWidth(7, 0		basrunmod
+A043740	basrunmod	0	1	    // mK = ensureWidth(7, 1		basrunmod
+A043741	basrunmod	0	1	    // mK = ensureWidth(7, 2		basrunmod
+A043742	basrunmod	0	1	    // mK = ensureWidth(7, 3		basrunmod
+A043743	basrunmod	0	1	    // mK = ensureWidth(7, 4		basrunmod
+A043744	basrunmod	0	1	    // mK = ensureWidth(7, 5		basrunmod
+A043745	basrunmod	0	1	    // mK = ensureWidth(7, 6		basrunmod
+A043746	basrunmod	0	1	    // mK = ensureWidth(8, 0		basrunmod
+A043747	basrunmod	0	1	    // mK = ensureWidth(8, 1		basrunmod
+A043748	basrunmod	0	1	    // mK = ensureWidth(8, 2		basrunmod
+A043749	basrunmod	0	1	    // mK = ensureWidth(8, 3		basrunmod
+A043750	basrunmod	0	1	    // mK = ensureWidth(8, 4		basrunmod
+A043751	basrunmod	0	1	    // mK = ensureWidth(8, 5		basrunmod
+A043752	basrunmod	0	1	    // mK = ensureWidth(8, 6		basrunmod
+A043753	basrunmod	0	1	    // mK = ensureWidth(8, 7		basrunmod
+A043755	basrunmod	0	1	    // mK = ensureWidth(9, 1		basrunmod
+A043756	basrunmod	0	1	    // mK = ensureWidth(9, 2		basrunmod
+A043757	basrunmod	0	1	    // mK = ensureWidth(9, 3		basrunmod
+A043758	basrunmod	0	1	    // mK = ensureWidth(9, 4		basrunmod
+A043759	basrunmod	0	1	    // mK = ensureWidth(9, 5		basrunmod
+A043760	basrunmod	0	1	    // mK = ensureWidth(9, 6		basrunmod
+A043761	basrunmod	0	1	    // mK = ensureWidth(9, 7		basrunmod
+A043762	basrunmod	0	1	    // mK = ensureWidth(9, 8		basrunmod
+A043763	basrunmod	0	1	    // mK = ensureWidth(10, 0		basrunmod
+A043764	basrunmod	0	1	    // mK = ensureWidth(10, 1		basrunmod
+A043765	basrunmod	0	1	    // mK = ensureWidth(10, 2		basrunmod
+A043766	basrunmod	0	1	    // mK = ensureWidth(10, 3		basrunmod
+A043767	basrunmod	0	1	    // mK = ensureWidth(10, 4		basrunmod
+A043768	basrunmod	0	1	    // mK = ensureWidth(10, 5		basrunmod
+A043769	basrunmod	0	1	    // mK = ensureWidth(10, 6		basrunmod
+A043770	basrunmod	0	1	    // mK = ensureWidth(10, 7		basrunmod
+A043771	basrunmod	0	1	    // mK = ensureWidth(10, 8		basrunmod
+A043773	basrunmod	0	1	    // mK = ensureWidth(3, 0		basrunmod
+A043774	basrunmod	0	1	    // mK = ensureWidth(3, 1		basrunmod
+A043775	basrunmod	0	1	    // mK = ensureWidth(3, 2		basrunmod
+A043776	basrunmod	0	1	    // mK = ensureWidth(4, 0		basrunmod
+A043777	basrunmod	0	1	    // mK = ensureWidth(4, 1		basrunmod
+A043778	basrunmod	0	1	    // mK = ensureWidth(4, 2		basrunmod
+A043779	basrunmod	0	1	    // mK = ensureWidth(4, 3		basrunmod
+A043780	basrunmod	0	1	    // mK = ensureWidth(5, 0		basrunmod
+A043781	basrunmod	0	1	    // mK = ensureWidth(5, 1		basrunmod
+A043782	basrunmod	0	1	    // mK = ensureWidth(5, 2		basrunmod
+A043783	basrunmod	0	1	    // mK = ensureWidth(5, 3		basrunmod
+A043784	basrunmod	0	1	    // mK = ensureWidth(5, 4		basrunmod
+A043785	basrunmod	0	1	    // mK = ensureWidth(6, 0		basrunmod
+A043786	basrunmod	0	1	    // mK = ensureWidth(6, 1		basrunmod
+A043787	basrunmod	0	1	    // mK = ensureWidth(6, 2		basrunmod
+A043788	basrunmod	0	1	    // mK = ensureWidth(6, 3		basrunmod
+A043789	basrunmod	0	1	    // mK = ensureWidth(6, 4		basrunmod
+A043790	basrunmod	0	1	    // mK = ensureWidth(6, 5		basrunmod
+A043791	basrunmod	0	1	    // mK = ensureWidth(7, 0		basrunmod
+A043792	basrunmod	0	1	    // mK = ensureWidth(7, 1		basrunmod
+A043793	basrunmod	0	1	    // mK = ensureWidth(7, 2		basrunmod
+A043794	basrunmod	0	1	    // mK = ensureWidth(7, 3		basrunmod
+A043795	basrunmod	0	1	    // mK = ensureWidth(7, 4		basrunmod
+A043796	basrunmod	0	1	    // mK = ensureWidth(7, 5		basrunmod
+A043797	basrunmod	0	1	    // mK = ensureWidth(7, 6		basrunmod
+A043798	basrunmod	0	1	    // mK = ensureWidth(8, 0		basrunmod
+A043799	basrunmod	0	1	    // mK = ensureWidth(8, 1		basrunmod
+A043800	basrunmod	0	1	    // mK = ensureWidth(8, 2		basrunmod
+A043801	basrunmod	0	1	    // mK = ensureWidth(8, 3		basrunmod
+A043802	basrunmod	0	1	    // mK = ensureWidth(8, 4		basrunmod
+A043803	basrunmod	0	1	    // mK = ensureWidth(8, 5		basrunmod
+A043804	basrunmod	0	1	    // mK = ensureWidth(8, 6		basrunmod
+A043805	basrunmod	0	1	    // mK = ensureWidth(8, 7		basrunmod
+A043806	basrunmod	0	1	    // mK = ensureWidth(9, 0		basrunmod
+A043807	basrunmod	0	1	    // mK = ensureWidth(9, 1		basrunmod
+A043808	basrunmod	0	1	    // mK = ensureWidth(9, 2		basrunmod
+A043809	basrunmod	0	1	    // mK = ensureWidth(9, 3		basrunmod
+A043810	basrunmod	0	1	    // mK = ensureWidth(9, 4		basrunmod
+A043811	basrunmod	0	1	    // mK = ensureWidth(9, 5		basrunmod
+A043812	basrunmod	0	1	    // mK = ensureWidth(9, 6		basrunmod
+A043813	basrunmod	0	1	    // mK = ensureWidth(9, 7		basrunmod
+A043814	basrunmod	0	1	    // mK = ensureWidth(9, 8		basrunmod
+A043815	basrunmod	0	1	    // mK = ensureWidth(10, 0		basrunmod
+A043816	basrunmod	0	1	    // mK = ensureWidth(10, 1		basrunmod
+A043817	basrunmod	0	1	    // mK = ensureWidth(10, 2		basrunmod
+A043818	basrunmod	0	1	    // mK = ensureWidth(10, 3		basrunmod
+A043819	basrunmod	0	1	    // mK = ensureWidth(10, 4		basrunmod
+A043820	basrunmod	0	1	    // mK = ensureWidth(10, 5		basrunmod
+A043821	basrunmod	0	1	    // mK = ensureWidth(10, 6		basrunmod
+A043822	basrunmod	0	1	    // mK = ensureWidth(10, 7		basrunmod
+A043823	basrunmod	0	1	    // mK = ensureWidth(10, 8		basrunmod
+A043824	basrunmod	0	1	    // mK = ensureWidth(10, 9		basrunmod
+A043825	basrunmod	0	1	    // mK = ensureWidth(3, 0		basrunmod
+A043826	basrunmod	0	1	    // mK = ensureWidth(3, 1		basrunmod
+A043827	basrunmod	0	1	    // mK = ensureWidth(3, 2		basrunmod
+A043828	basrunmod	0	1	    // mK = ensureWidth(4, 0		basrunmod
+A043829	basrunmod	0	1	    // mK = ensureWidth(4, 1		basrunmod
+A043830	basrunmod	0	1	    // mK = ensureWidth(4, 2		basrunmod
+A043831	basrunmod	0	1	    // mK = ensureWidth(4, 3		basrunmod
+A043832	basrunmod	0	1	    // mK = ensureWidth(5, 0		basrunmod
+A043833	basrunmod	0	1	    // mK = ensureWidth(5, 1		basrunmod
+A043834	basrunmod	0	1	    // mK = ensureWidth(5, 2		basrunmod
+A043835	basrunmod	0	1	    // mK = ensureWidth(5, 3		basrunmod
+A043836	basrunmod	0	1	    // mK = ensureWidth(5, 4		basrunmod
+A043837	basrunmod	0	1	    // mK = ensureWidth(6, 0		basrunmod
+A043838	basrunmod	0	1	    // mK = ensureWidth(6, 1		basrunmod
+A043839	basrunmod	0	1	    // mK = ensureWidth(6, 2		basrunmod
+A043840	basrunmod	0	1	    // mK = ensureWidth(6, 3		basrunmod
+A043841	basrunmod	0	1	    // mK = ensureWidth(6, 4		basrunmod
+A043842	basrunmod	0	1	    // mK = ensureWidth(6, 5		basrunmod
+A043843	basrunmod	0	1	    // mK = ensureWidth(7, 0		basrunmod
+A043844	basrunmod	0	1	    // mK = ensureWidth(7, 1		basrunmod
+A043845	basrunmod	0	1	    // mK = ensureWidth(7, 2		basrunmod
+A043846	basrunmod	0	1	    // mK = ensureWidth(7, 3		basrunmod
+A043847	basrunmod	0	1	    // mK = ensureWidth(7, 4		basrunmod
+A043848	basrunmod	0	1	    // mK = ensureWidth(7, 5		basrunmod
+A043849	basrunmod	0	1	    // mK = ensureWidth(7, 6		basrunmod
+A043850	basrunmod	0	1	    // mK = ensureWidth(8, 0		basrunmod
+A043851	basrunmod	0	1	    // mK = ensureWidth(8, 1		basrunmod
+A043852	basrunmod	0	1	    // mK = ensureWidth(8, 2		basrunmod
+A043853	basrunmod	0	1	    // mK = ensureWidth(8, 3		basrunmod
+A043854	basrunmod	0	1	    // mK = ensureWidth(8, 4		basrunmod
+A043855	basrunmod	0	1	    // mK = ensureWidth(8, 5		basrunmod
+A043856	basrunmod	0	1	    // mK = ensureWidth(8, 6		basrunmod
+A043857	basrunmod	0	1	    // mK = ensureWidth(8, 7		basrunmod
+A043858	basrunmod	0	1	    // mK = ensureWidth(9, 0		basrunmod
+A043859	basrunmod	0	1	    // mK = ensureWidth(9, 1		basrunmod
+A043860	basrunmod	0	1	    // mK = ensureWidth(9, 2		basrunmod
+A043861	basrunmod	0	1	    // mK = ensureWidth(9, 3		basrunmod
+A043862	basrunmod	0	1	    // mK = ensureWidth(9, 4		basrunmod
+A043863	basrunmod	0	1	    // mK = ensureWidth(9, 5		basrunmod
+A043864	basrunmod	0	1	    // mK = ensureWidth(9, 6		basrunmod
+A043865	basrunmod	0	1	    // mK = ensureWidth(9, 7		basrunmod
+A043866	basrunmod	0	1	    // mK = ensureWidth(9, 8		basrunmod
+A043867	basrunmod	0	1	    // mK = ensureWidth(10, 0		basrunmod
+A043868	basrunmod	0	1	    // mK = ensureWidth(10, 1		basrunmod
+A043869	basrunmod	0	1	    // mK = ensureWidth(10, 2		basrunmod
+A043870	basrunmod	0	1	    // mK = ensureWidth(10, 3		basrunmod
+A043871	basrunmod	0	1	    // mK = ensureWidth(10, 4		basrunmod
+A043872	basrunmod	0	1	    // mK = ensureWidth(10, 5		basrunmod
+A043873	basrunmod	0	1	    // mK = ensureWidth(10, 6		basrunmod
+A043874	basrunmod	0	1	    // mK = ensureWidth(10, 7		basrunmod
+A043875	basrunmod	0	1	    // mK = ensureWidth(10, 8		basrunmod
+A043876	basrunmod	0	1	    // mK = ensureWidth(10, 9		basrunmod
+A044052	juxdigost	1	-1	  		juxdigost
+A044053	juxdigost	1	-1	  		juxdigost
+A044054	juxdigost	1	-1	  		juxdigost
+A044055	juxdigost	1	-1	  		juxdigost
+A044056	juxdigost	1	-1	  		juxdigost
+A044057	juxdigost	1	-1	  		juxdigost
+A044058	juxdigost	1	-1	  		juxdigost
+A044059	juxdigost	1	-1	  		juxdigost
+A044060	juxdigost	1	-1	  		juxdigost
+A044061	juxdigost	1	-1	  		juxdigost
+A044062	juxdigost	1	-1	  		juxdigost
+A044063	juxdigost	1	-1	  		juxdigost
+A044064	juxdigost	1	-1	  		juxdigost
+A044065	juxdigost	1	-1	  		juxdigost
+A044066	juxdigost	1	-1	  		juxdigost
+A044067	juxdigost	1	-1	  		juxdigost
+A044068	juxdigost	1	-1	  		juxdigost
+A044069	juxdigost	1	-1	  		juxdigost
+A044070	juxdigost	1	-1	  		juxdigost
+A044071	juxdigost	1	-1	  		juxdigost
+A044072	juxdigost	1	-1	  		juxdigost
+A044073	juxdigost	1	-1	  		juxdigost
+A044074	juxdigost	1	-1	  		juxdigost
+A044075	juxdigost	1	-1	  		juxdigost
+A044076	juxdigost	1	-1	  		juxdigost
+A044077	juxdigost	1	-1	  		juxdigost
+A044078	juxdigost	1	-1	  		juxdigost
+A044079	juxdigost	1	-1	  		juxdigost
+A044080	juxdigost	1	-1	  		juxdigost
+A044081	juxdigost	1	-1	  		juxdigost
+A044082	juxdigost	1	-1	  		juxdigost
+A044083	juxdigost	1	-1	  		juxdigost
+A044084	juxdigost	1	-1	  		juxdigost
+A044085	juxdigost	1	-1	  		juxdigost
+A044086	juxdigost	1	-1	  		juxdigost
+A044087	juxdigost	1	-1	  		juxdigost
+A044088	juxdigost	1	-1	  		juxdigost
+A044089	juxdigost	1	-1	  		juxdigost
+A044090	juxdigost	1	-1	  		juxdigost
+A044091	juxdigost	1	-1	  		juxdigost
+A044092	juxdigost	1	-1	  		juxdigost
+A044093	juxdigost	1	-1	  		juxdigost
+A044094	juxdigost	1	-1	  		juxdigost
+A044095	juxdigost	1	-1	  		juxdigost
+A044096	juxdigost	1	-1	  		juxdigost
+A044097	juxdigost	1	-1	  		juxdigost
+A044098	juxdigost	1	-1	  		juxdigost
+A044099	juxdigost	1	-1	  		juxdigost
+A044100	juxdigost	1	-1	  		juxdigost
+A044101	juxdigost	1	-1	  		juxdigost
+A044103	juxdigost	1	-1	  		juxdigost
+A044104	juxdigost	1	-1	  		juxdigost
+A044105	juxdigost	1	-1	  		juxdigost
+A044106	juxdigost	1	-1	  		juxdigost
+A044107	juxdigost	1	-1	  		juxdigost
+A044108	juxdigost	1	-1	  		juxdigost
+A044109	juxdigost	1	-1	  		juxdigost
+A044110	juxdigost	1	-1	  		juxdigost
+A044111	juxdigost	1	-1	  		juxdigost
+A044112	juxdigost	1	-1	  		juxdigost
+A044113	juxdigost	1	-1	  		juxdigost
+A044114	juxdigost	1	-1	  		juxdigost
+A044115	juxdigost	1	-1	  		juxdigost
+A044116	juxdigost	1	-1	  		juxdigost
+A044117	juxdigost	1	-1	  		juxdigost
+A044118	juxdigost	1	-1	  		juxdigost
+A044119	juxdigost	1	-1	  		juxdigost
+A044120	juxdigost	1	-1	  		juxdigost
+A044121	juxdigost	1	-1	  		juxdigost
+A044122	juxdigost	1	-1	  		juxdigost
+A044123	juxdigost	1	-1	  		juxdigost
+A044124	juxdigost	1	-1	  		juxdigost
+A044125	juxdigost	1	-1	  		juxdigost
+A044126	juxdigost	1	-1	  		juxdigost
+A044127	juxdigost	1	-1	  		juxdigost
+A044128	juxdigost	1	-1	  		juxdigost
+A044129	juxdigost	1	-1	  		juxdigost
+A044130	juxdigost	1	-1	  		juxdigost
+A044131	juxdigost	1	-1	  		juxdigost
+A044132	juxdigost	1	-1	  		juxdigost
+A044133	juxdigost	1	-1	  		juxdigost
+A044134	juxdigost	1	-1	  		juxdigost
+A044135	juxdigost	1	-1	  		juxdigost
+A044136	juxdigost	1	-1	  		juxdigost
+A044137	juxdigost	1	-1	  		juxdigost
+A044138	juxdigost	1	-1	  		juxdigost
+A044139	juxdigost	1	-1	  		juxdigost
+A044140	juxdigost	1	-1	  		juxdigost
+A044141	juxdigost	1	-1	  		juxdigost
+A044142	juxdigost	1	-1	  		juxdigost
+A044143	juxdigost	1	-1	  		juxdigost
+A044144	juxdigost	1	-1	  		juxdigost
+A044145	juxdigost	1	-1	  		juxdigost
+A044146	juxdigost	1	-1	  		juxdigost
+A044147	juxdigost	1	-1	  		juxdigost
+A044148	juxdigost	1	-1	  		juxdigost
+A044149	juxdigost	1	-1	  		juxdigost
+A044150	juxdigost	1	-1	  		juxdigost
+A044151	juxdigost	1	-1	  		juxdigost
+A044152	juxdigost	1	-1	  		juxdigost
+A044153	juxdigost	1	-1	  		juxdigost
+A044154	juxdigost	1	-1	  		juxdigost
+A044155	juxdigost	1	-1	  		juxdigost
+A044156	juxdigost	1	-1	  		juxdigost
+A044157	juxdigost	1	-1	  		juxdigost
+A044158	juxdigost	1	-1	  		juxdigost
+A044159	juxdigost	1	-1	  		juxdigost
+A044160	juxdigost	1	-1	  		juxdigost
+A044161	juxdigost	1	-1	  		juxdigost
+A044162	juxdigost	1	-1	  		juxdigost
+A044163	juxdigost	1	-1	  		juxdigost
+A044164	juxdigost	1	-1	  		juxdigost
+A044165	juxdigost	1	-1	  		juxdigost
+A044166	juxdigost	1	-1	  		juxdigost
+A044167	juxdigost	1	-1	  		juxdigost
+A044168	juxdigost	1	-1	  		juxdigost
+A044169	juxdigost	1	-1	  		juxdigost
+A044170	juxdigost	1	-1	  		juxdigost
+A044171	juxdigost	1	-1	  		juxdigost
+A044172	juxdigost	1	-1	  		juxdigost
+A044173	juxdigost	1	-1	  		juxdigost
+A044174	juxdigost	1	-1	  		juxdigost
+A044175	juxdigost	1	-1	  		juxdigost
+A044176	juxdigost	1	-1	  		juxdigost
+A044177	juxdigost	1	-1	  		juxdigost
+A044178	juxdigost	1	-1	  		juxdigost
+A044179	juxdigost	1	-1	  		juxdigost
+A044180	juxdigost	1	-1	  		juxdigost
+A044181	juxdigost	1	-1	  		juxdigost
+A044182	juxdigost	1	-1	  		juxdigost
+A044183	juxdigost	1	-1	  		juxdigost
+A044184	juxdigost	1	-1	  		juxdigost
+A044185	juxdigost	1	-1	  		juxdigost
+A044186	juxdigost	1	-1	  		juxdigost
+A044187	juxdigost	1	-1	  		juxdigost
+A044188	juxdigost	1	-1	  		juxdigost
+A044189	juxdigost	1	-1	  		juxdigost
+A044190	juxdigost	1	-1	  		juxdigost
+A044191	juxdigost	1	-1	  		juxdigost
+A044192	juxdigost	1	-1	  		juxdigost
+A044193	juxdigost	1	-1	  		juxdigost
+A044194	juxdigost	1	-1	  		juxdigost
+A044195	juxdigost	1	-1	  		juxdigost
+A044196	juxdigost	1	-1	  		juxdigost
+A044197	juxdigost	1	-1	  		juxdigost
+A044198	juxdigost	1	-1	  		juxdigost
+A044199	juxdigost	1	-1	  		juxdigost
+A044200	juxdigost	1	-1	  		juxdigost
+A044201	juxdigost	1	-1	  		juxdigost
+A044202	juxdigost	1	-1	  		juxdigost
+A044203	juxdigost	1	-1	  		juxdigost
+A044204	juxdigost	1	-1	  		juxdigost
+A044205	juxdigost	1	-1	  		juxdigost
+A044206	juxdigost	1	-1	  		juxdigost
+A044207	juxdigost	1	-1	  		juxdigost
+A044208	juxdigost	1	-1	  		juxdigost
+A044209	juxdigost	1	-1	  		juxdigost
+A044210	juxdigost	1	-1	  		juxdigost
+A044211	juxdigost	1	-1	  		juxdigost
+A044212	juxdigost	1	-1	  		juxdigost
+A044213	juxdigost	1	-1	  		juxdigost
+A044214	juxdigost	1	-1	  		juxdigost
+A044215	juxdigost	1	-1	  		juxdigost
+A044216	juxdigost	1	-1	  		juxdigost
+A044217	juxdigost	1	-1	  		juxdigost
+A044218	juxdigost	1	-1	  		juxdigost
+A044219	juxdigost	1	-1	  		juxdigost
+A044220	juxdigost	1	-1	  		juxdigost
+A044221	juxdigost	1	-1	  		juxdigost
+A044222	juxdigost	1	-1	  		juxdigost
+A044223	juxdigost	1	-1	  		juxdigost
+A044224	juxdigost	1	-1	  		juxdigost
+A044225	juxdigost	1	-1	  		juxdigost
+A044226	juxdigost	1	-1	  		juxdigost
+A044227	juxdigost	1	-1	  		juxdigost
+A044228	juxdigost	1	-1	  		juxdigost
+A044229	juxdigost	1	-1	  		juxdigost
+A044230	juxdigost	1	-1	  		juxdigost
+A044231	juxdigost	1	-1	  		juxdigost
+A044232	juxdigost	1	-1	  		juxdigost
+A044233	juxdigost	1	-1	  		juxdigost
+A044234	juxdigost	1	-1	  		juxdigost
+A044235	juxdigost	1	-1	  		juxdigost
+A044236	juxdigost	1	-1	  		juxdigost
+A044237	juxdigost	1	-1	  		juxdigost
+A044238	juxdigost	1	-1	  		juxdigost
+A044239	juxdigost	1	-1	  		juxdigost
+A044240	juxdigost	1	-1	  		juxdigost
+A044241	juxdigost	1	-1	  		juxdigost
+A044242	juxdigost	1	-1	  		juxdigost
+A044243	juxdigost	1	-1	  		juxdigost
+A044244	juxdigost	1	-1	  		juxdigost
+A044245	juxdigost	1	-1	  		juxdigost
+A044246	juxdigost	1	-1	  		juxdigost
+A044247	juxdigost	1	-1	  		juxdigost
+A044248	juxdigost	1	-1	  		juxdigost
+A044249	juxdigost	1	-1	  		juxdigost
+A044250	juxdigost	1	-1	  		juxdigost
+A044251	juxdigost	1	-1	  		juxdigost
+A044252	juxdigost	1	-1	  		juxdigost
+A044253	juxdigost	1	-1	  		juxdigost
+A044254	juxdigost	1	-1	  		juxdigost
+A044255	juxdigost	1	-1	  		juxdigost
+A044256	juxdigost	1	-1	  		juxdigost
+A044257	juxdigost	1	-1	  		juxdigost
+A044258	juxdigost	1	-1	  		juxdigost
+A044259	juxdigost	1	-1	  		juxdigost
+A044260	juxdigost	1	-1	  		juxdigost
+A044261	juxdigost	1	-1	  		juxdigost
+A044262	juxdigost	1	-1	  		juxdigost
+A044263	juxdigost	1	-1	  		juxdigost
+A044264	juxdigost	1	-1	  		juxdigost
+A044265	juxdigost	1	-1	  		juxdigost
+A044266	juxdigost	1	-1	  		juxdigost
+A044267	juxdigost	1	-1	  		juxdigost
+A044268	juxdigost	1	-1	  		juxdigost
+A044269	juxdigost	1	-1	  		juxdigost
+A044270	juxdigost	1	-1	  		juxdigost
+A044271	juxdigost	1	-1	  		juxdigost
+A044272	juxdigost	1	-1	  		juxdigost
+A044273	juxdigost	1	-1	  		juxdigost
+A044274	juxdigost	1	-1	  		juxdigost
+A044275	juxdigost	1	-1	  		juxdigost
+A044276	juxdigost	1	-1	  		juxdigost
+A044277	juxdigost	1	-1	  		juxdigost
+A044278	juxdigost	1	-1	  		juxdigost
+A044279	juxdigost	1	-1	  		juxdigost
+A044280	juxdigost	1	-1	  		juxdigost
+A044281	juxdigost	1	-1	  		juxdigost
+A044282	juxdigost	1	-1	  		juxdigost
+A044283	juxdigost	1	-1	  		juxdigost
+A044284	juxdigost	1	-1	  		juxdigost
+A044285	juxdigost	1	-1	  		juxdigost
+A044286	juxdigost	1	-1	  		juxdigost
+A044287	juxdigost	1	-1	  		juxdigost
+A044288	juxdigost	1	-1	  		juxdigost
+A044289	juxdigost	1	-1	  		juxdigost
+A044290	juxdigost	1	-1	  		juxdigost
+A044291	juxdigost	1	-1	  		juxdigost
+A044292	juxdigost	1	-1	  		juxdigost
+A044293	juxdigost	1	-1	  		juxdigost
+A044294	juxdigost	1	-1	  		juxdigost
+A044295	juxdigost	1	-1	  		juxdigost
+A044296	juxdigost	1	-1	  		juxdigost
+A044297	juxdigost	1	-1	  		juxdigost
+A044298	juxdigost	1	-1	  		juxdigost
+A044299	juxdigost	1	-1	  		juxdigost
+A044300	juxdigost	1	-1	  		juxdigost
+A044301	juxdigost	1	-1	  		juxdigost
+A044302	juxdigost	1	-1	  		juxdigost
+A044303	juxdigost	1	-1	  		juxdigost
+A044304	juxdigost	1	-1	  		juxdigost
+A044305	juxdigost	1	-1	  		juxdigost
+A044306	juxdigost	1	-1	  		juxdigost
+A044307	juxdigost	1	-1	  		juxdigost
+A044308	juxdigost	1	-1	  		juxdigost
+A044309	juxdigost	1	-1	  		juxdigost
+A044310	juxdigost	1	-1	  		juxdigost
+A044311	juxdigost	1	-1	  		juxdigost
+A044312	juxdigost	1	-1	  		juxdigost
+A044313	juxdigost	1	-1	  		juxdigost
+A044314	juxdigost	1	-1	  		juxdigost
+A044315	juxdigost	1	-1	  		juxdigost
+A044316	juxdigost	1	-1	  		juxdigost
+A044317	juxdigost	1	-1	  		juxdigost
+A044318	juxdigost	1	-1	  		juxdigost
+A044319	juxdigost	1	-1	  		juxdigost
+A044320	juxdigost	1	-1	  		juxdigost
+A044321	juxdigost	1	-1	  		juxdigost
+A044322	juxdigost	1	-1	  		juxdigost
+A044323	juxdigost	1	-1	  		juxdigost
+A044324	juxdigost	1	-1	  		juxdigost
+A044325	juxdigost	1	-1	  		juxdigost
+A044326	juxdigost	1	-1	  		juxdigost
+A044327	juxdigost	1	-1	  		juxdigost
+A044328	juxdigost	1	-1	  		juxdigost
+A044329	juxdigost	1	-1	  		juxdigost
+A044330	juxdigost	1	-1	  		juxdigost
+A044331	juxdigost	1	-1	  		juxdigost
+A044332	juxdigost	1	-1	  		juxdigost
+A044333	juxdigost	1	-1	  		juxdigost
+A044334	juxdigost	1	-1	  		juxdigost
+A044335	juxdigost	1	-1	  		juxdigost
+A044336	juxdigost	1	-1	  		juxdigost
+A044337	juxdigost	1	-1	  		juxdigost
+A044338	juxdigost	1	-1	  		juxdigost
+A044339	juxdigost	1	-1	  		juxdigost
+A044340	juxdigost	1	-1	  		juxdigost
+A044341	juxdigost	1	-1	  		juxdigost
+A044342	juxdigost	1	-1	  		juxdigost
+A044343	juxdigost	1	-1	  		juxdigost
+A044344	juxdigost	1	-1	  		juxdigost
+A044345	juxdigost	1	-1	  		juxdigost
+A044346	juxdigost	1	-1	  		juxdigost
+A044347	juxdigost	1	-1	  		juxdigost
+A044348	juxdigost	1	-1	  		juxdigost
+A044349	juxdigost	1	-1	  		juxdigost
+A044350	juxdigost	1	-1	  		juxdigost
+A044351	juxdigost	1	-1	  		juxdigost
+A044352	juxdigost	1	-1	  		juxdigost
+A044353	juxdigost	1	-1	  		juxdigost
+A044354	juxdigost	1	-1	  		juxdigost
+A044355	juxdigost	1	-1	  		juxdigost
+A044356	juxdigost	1	-1	  		juxdigost
+A044357	juxdigost	1	-1	  		juxdigost
+A044358	juxdigost	1	-1	  		juxdigost
+A044359	juxdigost	1	-1	  		juxdigost
+A044360	juxdigost	1	-1	  		juxdigost
+A044361	juxdigost	1	-1	  		juxdigost
+A044362	juxdigost	1	-1	  		juxdigost
+A044363	juxdigost	1	-1	  		juxdigost
+A044364	juxdigost	1	-1	  		juxdigost
+A044365	juxdigost	1	-1	  		juxdigost
+A044366	juxdigost	1	-1	  		juxdigost
+A044367	juxdigost	1	-1	  		juxdigost
+A044368	juxdigost	1	-1	  		juxdigost
+A044369	juxdigost	1	-1	  		juxdigost
+A044370	juxdigost	1	-1	  		juxdigost
+A044371	juxdigost	1	-1	  		juxdigost
+A044372	juxdigost	1	-1	  		juxdigost
+A044373	juxdigost	1	-1	  		juxdigost
+A044374	juxdigost	1	-1	  		juxdigost
+A044375	juxdigost	1	-1	  		juxdigost
+A044376	juxdigost	1	-1	  		juxdigost
+A044377	juxdigost	1	-1	  		juxdigost
+A044378	juxdigost	1	-1	  		juxdigost
+A044379	juxdigost	1	-1	  		juxdigost
+A044380	juxdigost	1	-1	  		juxdigost
+A044381	juxdigost	1	-1	  		juxdigost
+A044382	juxdigost	1	-1	  		juxdigost
+A044383	juxdigost	1	-1	  		juxdigost
+A044384	juxdigost	1	-1	  		juxdigost
+A044385	juxdigost	1	-1	  		juxdigost
+A044386	juxdigost	1	-1	  		juxdigost
+A044387	juxdigost	1	-1	  		juxdigost
+A044388	juxdigost	1	-1	  		juxdigost
+A044389	juxdigost	1	-1	  		juxdigost
+A044390	juxdigost	1	-1	  		juxdigost
+A044391	juxdigost	1	-1	  		juxdigost
+A044392	juxdigost	1	-1	  		juxdigost
+A044393	juxdigost	1	-1	  		juxdigost
+A044394	juxdigost	1	-1	  		juxdigost
+A044395	juxdigost	1	-1	  		juxdigost
+A044396	juxdigost	1	-1	  		juxdigost
+A044397	juxdigost	1	-1	  		juxdigost
+A044398	juxdigost	1	-1	  		juxdigost
+A044399	juxdigost	1	-1	  		juxdigost
+A044400	juxdigost	1	-1	  		juxdigost
+A044401	juxdigost	1	-1	  		juxdigost
+A044402	juxdigost	1	-1	  		juxdigost
+A044403	juxdigost	1	-1	  		juxdigost
+A044404	juxdigost	1	-1	  		juxdigost
+A044405	juxdigost	1	-1	  		juxdigost
+A044406	juxdigost	1	-1	  		juxdigost
+A044407	juxdigost	1	-1	  		juxdigost
+A044408	juxdigost	1	-1	  		juxdigost
+A044409	juxdigost	1	-1	  		juxdigost
+A044410	juxdigost	1	-1	  		juxdigost
+A044411	juxdigost	1	-1	  		juxdigost
+A044412	juxdigost	1	-1	  		juxdigost
+A044413	juxdigost	1	-1	  		juxdigost
+A044414	juxdigost	1	-1	  		juxdigost
+A044415	juxdigost	1	-1	  		juxdigost
+A044416	juxdigost	1	-1	  		juxdigost
+A044417	juxdigost	1	-1	  		juxdigost
+A044418	juxdigost	1	-1	  		juxdigost
+A044419	juxdigost	1	-1	  		juxdigost
+A044420	juxdigost	1	-1	  		juxdigost
+A044421	juxdigost	1	-1	  		juxdigost
+A044422	juxdigost	1	-1	  		juxdigost
+A044423	juxdigost	1	-1	  		juxdigost
+A044424	juxdigost	1	-1	  		juxdigost
+A044425	juxdigost	1	-1	  		juxdigost
+A044426	juxdigost	1	-1	  		juxdigost
+A044427	juxdigost	1	-1	  		juxdigost
+A044428	juxdigost	1	-1	  		juxdigost
+A044429	juxdigost	1	-1	  		juxdigost
+A044430	juxdigost	1	-1	  		juxdigost
+A044431	juxdigost	1	-1	  		juxdigost
+A044433	juxdigost	1	-1	  		juxdigost
+A044434	juxdigost	1	-1	  		juxdigost
+A044435	juxdigost	1	-1	  		juxdigost
+A044436	juxdigost	1	-1	  		juxdigost
+A044437	juxdigost	1	-1	  		juxdigost
+A044438	juxdigost	1	-1	  		juxdigost
+A044439	juxdigost	1	-1	  		juxdigost
+A044440	juxdigost	1	-1	  		juxdigost
+A044441	juxdigost	1	-1	  		juxdigost
+A044442	juxdigost	1	-1	  		juxdigost
+A044443	juxdigost	1	-1	  		juxdigost
+A044444	juxdigost	1	-1	  		juxdigost
+A044445	juxdigost	1	-1	  		juxdigost
+A044446	juxdigost	1	-1	  		juxdigost
+A044447	juxdigost	1	-1	  		juxdigost
+A044448	juxdigost	1	-1	  		juxdigost
+A044449	juxdigost	1	-1	  		juxdigost
+A044450	juxdigost	1	-1	  		juxdigost
+A044451	juxdigost	1	-1	  		juxdigost
+A044452	juxdigost	1	-1	  		juxdigost
+A044453	juxdigost	1	-1	  		juxdigost
+A044454	juxdigost	1	-1	  		juxdigost
+A044455	juxdigost	1	-1	  		juxdigost
+A044456	juxdigost	1	-1	  		juxdigost
+A044457	juxdigost	1	-1	  		juxdigost
+A044458	juxdigost	1	-1	  		juxdigost
+A044459	juxdigost	1	-1	  		juxdigost
+A044460	juxdigost	1	-1	  		juxdigost
+A044461	juxdigost	1	-1	  		juxdigost
+A044462	juxdigost	1	-1	  		juxdigost
+A044463	juxdigost	1	-1	  		juxdigost
+A044464	juxdigost	1	-1	  		juxdigost
+A044465	juxdigost	1	-1	  		juxdigost
+A044466	juxdigost	1	-1	  		juxdigost
+A044467	juxdigost	1	-1	  		juxdigost
+A044468	juxdigost	1	-1	  		juxdigost
+A044469	juxdigost	1	-1	  		juxdigost
+A044470	juxdigost	1	-1	  		juxdigost
+A044471	juxdigost	1	-1	  		juxdigost
+A044472	juxdigost	1	-1	  		juxdigost
+A044473	juxdigost	1	-1	  		juxdigost
+A044474	juxdigost	1	-1	  		juxdigost
+A044475	juxdigost	1	-1	  		juxdigost
+A044476	juxdigost	1	-1	  		juxdigost
+A044477	juxdigost	1	-1	  		juxdigost
+A044478	juxdigost	1	-1	  		juxdigost
+A044479	juxdigost	1	-1	  		juxdigost
+A044480	juxdigost	1	-1	  		juxdigost
+A044481	juxdigost	1	-1	  		juxdigost
+A044482	juxdigost	1	-1	  		juxdigost
+A044483	juxdigost	1	-1	  		juxdigost
+A044484	juxdigost	1	-1	  		juxdigost
+A044485	juxdigost	1	-1	  		juxdigost
+A044486	juxdigost	1	-1	  		juxdigost
+A044487	juxdigost	1	-1	  		juxdigost
+A044488	juxdigost	1	-1	  		juxdigost
+A044489	juxdigost	1	-1	  		juxdigost
+A044490	juxdigost	1	-1	  		juxdigost
+A044491	juxdigost	1	-1	  		juxdigost
+A044492	juxdigost	1	-1	  		juxdigost
+A044493	juxdigost	1	-1	  		juxdigost
+A044494	juxdigost	1	-1	  		juxdigost
+A044495	juxdigost	1	-1	  		juxdigost
+A044496	juxdigost	1	-1	  		juxdigost
+A044497	juxdigost	1	-1	  		juxdigost
+A044498	juxdigost	1	-1	  		juxdigost
+A044499	juxdigost	1	-1	  		juxdigost
+A044500	juxdigost	1	-1	  		juxdigost
+A044501	juxdigost	1	-1	  		juxdigost
+A044502	juxdigost	1	-1	  		juxdigost
+A044503	juxdigost	1	-1	  		juxdigost
+A044504	juxdigost	1	-1	  		juxdigost
+A044505	juxdigost	1	-1	  		juxdigost
+A044506	juxdigost	1	-1	  		juxdigost
+A044507	juxdigost	1	-1	  		juxdigost
+A044508	juxdigost	1	-1	  		juxdigost
+A044509	juxdigost	1	-1	  		juxdigost
+A044510	juxdigost	1	-1	  		juxdigost
+A044511	juxdigost	1	-1	  		juxdigost
+A044512	juxdigost	1	-1	  		juxdigost
+A044513	juxdigost	1	-1	  		juxdigost
+A044514	juxdigost	1	-1	  		juxdigost
+A044515	juxdigost	1	-1	  		juxdigost
+A044516	juxdigost	1	-1	  		juxdigost
+A044517	juxdigost	1	-1	  		juxdigost
+A044518	juxdigost	1	-1	  		juxdigost
+A044519	juxdigost	1	-1	  		juxdigost
+A044520	juxdigost	1	-1	  		juxdigost
+A044521	juxdigost	1	-1	  		juxdigost
+A044522	juxdigost	1	-1	  		juxdigost
+A044523	juxdigost	1	-1	  		juxdigost
+A044524	juxdigost	1	-1	  		juxdigost
+A044525	juxdigost	1	-1	  		juxdigost
+A044526	juxdigost	1	-1	  		juxdigost
+A044527	juxdigost	1	-1	  		juxdigost
+A044528	juxdigost	1	-1	  		juxdigost
+A044529	juxdigost	1	-1	  		juxdigost
+A044530	juxdigost	1	-1	  		juxdigost
+A044531	juxdigost	1	-1	  		juxdigost
+A044532	juxdigost	1	-1	  		juxdigost
+A044533	juxdigost	1	-1	  		juxdigost
+A044534	juxdigost	1	-1	  		juxdigost
+A044535	juxdigost	1	-1	  		juxdigost
+A044536	juxdigost	1	-1	  		juxdigost
+A044537	juxdigost	1	-1	  		juxdigost
+A044538	juxdigost	1	-1	  		juxdigost
+A044539	juxdigost	1	-1	  		juxdigost
+A044540	juxdigost	1	-1	  		juxdigost
+A044541	juxdigost	1	-1	  		juxdigost
+A044542	juxdigost	1	-1	  		juxdigost
+A044543	juxdigost	1	-1	  		juxdigost
+A044544	juxdigost	1	-1	  		juxdigost
+A044545	juxdigost	1	-1	  		juxdigost
+A044546	juxdigost	1	-1	  		juxdigost
+A044547	juxdigost	1	-1	  		juxdigost
+A044548	juxdigost	1	-1	  		juxdigost
+A044549	juxdigost	1	-1	  		juxdigost
+A044550	juxdigost	1	-1	  		juxdigost
+A044551	juxdigost	1	-1	  		juxdigost
+A044552	juxdigost	1	-1	  		juxdigost
+A044553	juxdigost	1	-1	  		juxdigost
+A044554	juxdigost	1	-1	  		juxdigost
+A044555	juxdigost	1	-1	  		juxdigost
+A044556	juxdigost	1	-1	  		juxdigost
+A044557	juxdigost	1	-1	  		juxdigost
+A044558	juxdigost	1	-1	  		juxdigost
+A044559	juxdigost	1	-1	  		juxdigost
+A044560	juxdigost	1	-1	  		juxdigost
+A044561	juxdigost	1	-1	  		juxdigost
+A044562	juxdigost	1	-1	  		juxdigost
+A044563	juxdigost	1	-1	  		juxdigost
+A044564	juxdigost	1	-1	  		juxdigost
+A044565	juxdigost	1	-1	  		juxdigost
+A044566	juxdigost	1	-1	  		juxdigost
+A044567	juxdigost	1	-1	  		juxdigost
+A044568	juxdigost	1	-1	  		juxdigost
+A044569	juxdigost	1	-1	  		juxdigost
+A044570	juxdigost	1	-1	  		juxdigost
+A044571	juxdigost	1	-1	  		juxdigost
+A044572	juxdigost	1	-1	  		juxdigost
+A044573	juxdigost	1	-1	  		juxdigost
+A044574	juxdigost	1	-1	  		juxdigost
+A044575	juxdigost	1	-1	  		juxdigost
+A044576	juxdigost	1	-1	  		juxdigost
+A044577	juxdigost	1	-1	  		juxdigost
+A044578	juxdigost	1	-1	  		juxdigost
+A044579	juxdigost	1	-1	  		juxdigost
+A044580	juxdigost	1	-1	  		juxdigost
+A044581	juxdigost	1	-1	  		juxdigost
+A044582	juxdigost	1	-1	  		juxdigost
+A044583	juxdigost	1	-1	  		juxdigost
+A044584	juxdigost	1	-1	  		juxdigost
+A044585	juxdigost	1	-1	  		juxdigost
+A044586	juxdigost	1	-1	  		juxdigost
+A044587	juxdigost	1	-1	  		juxdigost
+A044588	juxdigost	1	-1	  		juxdigost
+A044589	juxdigost	1	-1	  		juxdigost
+A044590	juxdigost	1	-1	  		juxdigost
+A044591	juxdigost	1	-1	  		juxdigost
+A044592	juxdigost	1	-1	  		juxdigost
+A044593	juxdigost	1	-1	  		juxdigost
+A044594	juxdigost	1	-1	  		juxdigost
+A044595	juxdigost	1	-1	  		juxdigost
+A044596	juxdigost	1	-1	  		juxdigost
+A044597	juxdigost	1	-1	  		juxdigost
+A044598	juxdigost	1	-1	  		juxdigost
+A044599	juxdigost	1	-1	  		juxdigost
+A044600	juxdigost	1	-1	  		juxdigost
+A044601	juxdigost	1	-1	  		juxdigost
+A044602	juxdigost	1	-1	  		juxdigost
+A044603	juxdigost	1	-1	  		juxdigost
+A044604	juxdigost	1	-1	  		juxdigost
+A044605	juxdigost	1	-1	  		juxdigost
+A044606	juxdigost	1	-1	  		juxdigost
+A044607	juxdigost	1	-1	  		juxdigost
+A044608	juxdigost	1	-1	  		juxdigost
+A044609	juxdigost	1	-1	  		juxdigost
+A044610	juxdigost	1	-1	  		juxdigost
+A044611	juxdigost	1	-1	  		juxdigost
+A044612	juxdigost	1	-1	  		juxdigost
+A044613	juxdigost	1	-1	  		juxdigost
+A044614	juxdigost	1	-1	  		juxdigost
+A044615	juxdigost	1	-1	  		juxdigost
+A044616	juxdigost	1	-1	  		juxdigost
+A044617	juxdigost	1	-1	  		juxdigost
+A044618	juxdigost	1	-1	  		juxdigost
+A044619	juxdigost	1	-1	  		juxdigost
+A044620	juxdigost	1	-1	  		juxdigost
+A044621	juxdigost	1	-1	  		juxdigost
+A044622	juxdigost	1	-1	  		juxdigost
+A044623	juxdigost	1	-1	  		juxdigost
+A044624	juxdigost	1	-1	  		juxdigost
+A044625	juxdigost	1	-1	  		juxdigost
+A044626	juxdigost	1	-1	  		juxdigost
+A044627	juxdigost	1	-1	  		juxdigost
+A044628	juxdigost	1	-1	  		juxdigost
+A044629	juxdigost	1	-1	  		juxdigost
+A044630	juxdigost	1	-1	  		juxdigost
+A044631	juxdigost	1	-1	  		juxdigost
+A044632	juxdigost	1	-1	  		juxdigost
+A044633	juxdigost	1	-1	  		juxdigost
+A044634	juxdigost	1	-1	  		juxdigost
+A044635	juxdigost	1	-1	  		juxdigost
+A044636	juxdigost	1	-1	  		juxdigost
+A044637	juxdigost	1	-1	  		juxdigost
+A044638	juxdigost	1	-1	  		juxdigost
+A044639	juxdigost	1	-1	  		juxdigost
+A044640	juxdigost	1	-1	  		juxdigost
+A044641	juxdigost	1	-1	  		juxdigost
+A044642	juxdigost	1	-1	  		juxdigost
+A044643	juxdigost	1	-1	  		juxdigost
+A044644	juxdigost	1	-1	  		juxdigost
+A044645	juxdigost	1	-1	  		juxdigost
+A044646	juxdigost	1	-1	  		juxdigost
+A044647	juxdigost	1	-1	  		juxdigost
+A044648	juxdigost	1	-1	  		juxdigost
+A044649	juxdigost	1	-1	  		juxdigost
+A044650	juxdigost	1	-1	  		juxdigost
+A044651	juxdigost	1	-1	  		juxdigost
+A044652	juxdigost	1	-1	  		juxdigost
+A044653	juxdigost	1	-1	  		juxdigost
+A044654	juxdigost	1	-1	  		juxdigost
+A044655	juxdigost	1	-1	  		juxdigost
+A044656	juxdigost	1	-1	  		juxdigost
+A044657	juxdigost	1	-1	  		juxdigost
+A044658	juxdigost	1	-1	  		juxdigost
+A044659	juxdigost	1	-1	  		juxdigost
+A044660	juxdigost	1	-1	  		juxdigost
+A044661	juxdigost	1	-1	  		juxdigost
+A044662	juxdigost	1	-1	  		juxdigost
+A044663	juxdigost	1	-1	  		juxdigost
+A044664	juxdigost	1	-1	  		juxdigost
+A044665	juxdigost	1	-1	  		juxdigost
+A044666	juxdigost	1	-1	  		juxdigost
+A044667	juxdigost	1	-1	  		juxdigost
+A044668	juxdigost	1	-1	  		juxdigost
+A044669	juxdigost	1	-1	  		juxdigost
+A044670	juxdigost	1	-1	  		juxdigost
+A044671	juxdigost	1	-1	  		juxdigost
+A044672	juxdigost	1	-1	  		juxdigost
+A044673	juxdigost	1	-1	  		juxdigost
+A044674	juxdigost	1	-1	  		juxdigost
+A044675	juxdigost	1	-1	  		juxdigost
+A044676	juxdigost	1	-1	  		juxdigost
+A044677	juxdigost	1	-1	  		juxdigost
+A044678	juxdigost	1	-1	  		juxdigost
+A044679	juxdigost	1	-1	  		juxdigost
+A044680	juxdigost	1	-1	  		juxdigost
+A044681	juxdigost	1	-1	  		juxdigost
+A044682	juxdigost	1	-1	  		juxdigost
+A044683	juxdigost	1	-1	  		juxdigost
+A044684	juxdigost	1	-1	  		juxdigost
+A044685	juxdigost	1	-1	  		juxdigost
+A044686	juxdigost	1	-1	  		juxdigost
+A044687	juxdigost	1	-1	  		juxdigost
+A044688	juxdigost	1	-1	  		juxdigost
+A044689	juxdigost	1	-1	  		juxdigost
+A044690	juxdigost	1	-1	  		juxdigost
+A044691	juxdigost	1	-1	  		juxdigost
+A044692	juxdigost	1	-1	  		juxdigost
+A044693	juxdigost	1	-1	  		juxdigost
+A044694	juxdigost	1	-1	  		juxdigost
+A044695	juxdigost	1	-1	  		juxdigost
+A044696	juxdigost	1	-1	  		juxdigost
+A044697	juxdigost	1	-1	  		juxdigost
+A044698	juxdigost	1	-1	  		juxdigost
+A044699	juxdigost	1	-1	  		juxdigost
+A044700	juxdigost	1	-1	  		juxdigost
+A044701	juxdigost	1	-1	  		juxdigost
+A044702	juxdigost	1	-1	  		juxdigost
+A044703	juxdigost	1	-1	  		juxdigost
+A044704	juxdigost	1	-1	  		juxdigost
+A044705	juxdigost	1	-1	  		juxdigost
+A044706	juxdigost	1	-1	  		juxdigost
+A044707	juxdigost	1	-1	  		juxdigost
+A044708	juxdigost	1	-1	  		juxdigost
+A044709	juxdigost	1	-1	  		juxdigost
+A044710	juxdigost	1	-1	  		juxdigost
+A044711	juxdigost	1	-1	  		juxdigost
+A044712	juxdigost	1	-1	  		juxdigost
+A044713	juxdigost	1	-1	  		juxdigost
+A044714	juxdigost	1	-1	  		juxdigost
+A044715	juxdigost	1	-1	  		juxdigost
+A044716	juxdigost	1	-1	  		juxdigost
+A044717	juxdigost	1	-1	  		juxdigost
+A044718	juxdigost	1	-1	  		juxdigost
+A044719	juxdigost	1	-1	  		juxdigost
+A044720	juxdigost	1	-1	  		juxdigost
+A044721	juxdigost	1	-1	  		juxdigost
+A044722	juxdigost	1	-1	  		juxdigost
+A044723	juxdigost	1	-1	  		juxdigost
+A044724	juxdigost	1	-1	  		juxdigost
+A044725	juxdigost	1	-1	  		juxdigost
+A044726	juxdigost	1	-1	  		juxdigost
+A044727	juxdigost	1	-1	  		juxdigost
+A044728	juxdigost	1	-1	  		juxdigost
+A044729	juxdigost	1	-1	  		juxdigost
+A044730	juxdigost	1	-1	  		juxdigost
+A044731	juxdigost	1	-1	  		juxdigost
+A044732	juxdigost	1	-1	  		juxdigost
+A044733	juxdigost	1	-1	  		juxdigost
+A044734	juxdigost	1	-1	  		juxdigost
+A044735	juxdigost	1	-1	  		juxdigost
+A044736	juxdigost	1	-1	  		juxdigost
+A044737	juxdigost	1	-1	  		juxdigost
+A044738	juxdigost	1	-1	  		juxdigost
+A044739	juxdigost	1	-1	  		juxdigost
+A044740	juxdigost	1	-1	  		juxdigost
+A044741	juxdigost	1	-1	  		juxdigost
+A044742	juxdigost	1	-1	  		juxdigost
+A044743	juxdigost	1	-1	  		juxdigost
+A044744	juxdigost	1	-1	  		juxdigost
+A044745	juxdigost	1	-1	  		juxdigost
+A044746	juxdigost	1	-1	  		juxdigost
+A044747	juxdigost	1	-1	  		juxdigost
+A044748	juxdigost	1	-1	  		juxdigost
+A044749	juxdigost	1	-1	  		juxdigost
+A044750	juxdigost	1	-1	  		juxdigost
+A044751	juxdigost	1	-1	  		juxdigost
+A044752	juxdigost	1	-1	  		juxdigost
+A044753	juxdigost	1	-1	  		juxdigost
+A044754	juxdigost	1	-1	  		juxdigost
+A044755	juxdigost	1	-1	  		juxdigost
+A044756	juxdigost	1	-1	  		juxdigost
+A044757	juxdigost	1	-1	  		juxdigost
+A044758	juxdigost	1	-1	  		juxdigost
+A044759	juxdigost	1	-1	  		juxdigost
+A044760	juxdigost	1	-1	  		juxdigost
+A044761	juxdigost	1	-1	  		juxdigost
+A044762	juxdigost	1	-1	  		juxdigost
+A044763	juxdigost	1	-1	  		juxdigost
+A044764	juxdigost	1	-1	  		juxdigost
+A044765	juxdigost	1	-1	  		juxdigost
+A044766	juxdigost	1	-1	  		juxdigost
+A044767	juxdigost	1	-1	  		juxdigost
+A044768	juxdigost	1	-1	  		juxdigost
+A044769	juxdigost	1	-1	  		juxdigost
+A044770	juxdigost	1	-1	  		juxdigost
+A044771	juxdigost	1	-1	  		juxdigost
+A044772	juxdigost	1	-1	  		juxdigost
+A044773	juxdigost	1	-1	  		juxdigost
+A044774	juxdigost	1	-1	  		juxdigost
+A044775	juxdigost	1	-1	  		juxdigost
+A044776	juxdigost	1	-1	  		juxdigost
+A044777	juxdigost	1	-1	  		juxdigost
+A044778	juxdigost	1	-1	  		juxdigost
+A044779	juxdigost	1	-1	  		juxdigost
+A044780	juxdigost	1	-1	  		juxdigost
+A044781	juxdigost	1	-1	  		juxdigost
+A044782	juxdigost	1	-1	  		juxdigost
+A044783	juxdigost	1	-1	  		juxdigost
+A044784	juxdigost	1	-1	  		juxdigost
+A044785	juxdigost	1	-1	  		juxdigost
+A044786	juxdigost	1	-1	  		juxdigost
+A044787	juxdigost	1	-1	  		juxdigost
+A044788	juxdigost	1	-1	  		juxdigost
+A044789	juxdigost	1	-1	  		juxdigost
+A044790	juxdigost	1	-1	  		juxdigost
+A044791	juxdigost	1	-1	  		juxdigost
+A044792	juxdigost	1	-1	  		juxdigost
+A044793	juxdigost	1	-1	  		juxdigost
+A044794	juxdigost	1	-1	  		juxdigost
+A044795	juxdigost	1	-1	  		juxdigost
+A044796	juxdigost	1	-1	  		juxdigost
+A044797	juxdigost	1	-1	  		juxdigost
+A044798	juxdigost	1	-1	  		juxdigost
+A044799	juxdigost	1	-1	  		juxdigost
+A044800	juxdigost	1	-1	  		juxdigost
+A044801	juxdigost	1	-1	  		juxdigost
+A044802	juxdigost	1	-1	  		juxdigost
+A044803	juxdigost	1	-1	  		juxdigost
+A044804	juxdigost	1	-1	  		juxdigost
+A044805	juxdigost	1	-1	  		juxdigost
+A044806	juxdigost	1	-1	  		juxdigost
+A044807	juxdigost	1	-1	  		juxdigost
+A044808	juxdigost	1	-1	  		juxdigost
+A044809	juxdigost	1	-1	  		juxdigost
+A044810	juxdigost	1	-1	  		juxdigost
+A044811	juxdigost	1	-1	  		juxdigost
+A044812	juxdigost	1	-1	  		juxdigost
+A044966	basdig4	1	-1	  		basdig4
+A044967	basdig4	1	-1	  		basdig4
+A044968	basdig4	1	-1	  		basdig4
+A044969	basdig4	1	-1	  		basdig4
+A044970	basdig4	1	-1	  		basdig4
+A044971	basdig4	1	-1	  		basdig4
+A044972	basdig4	1	-1	  		basdig4
+A044973	basdig4	1	-1	  		basdig4
+A044974	basdig4	1	-1	  		basdig4
+A044975	basdig4	1	-1	  		basdig4
+A044976	basdig4	1	-1	  		basdig4
+A044977	basdig4	1	-1	  		basdig4
+A044978	basdig4	1	-1	  		basdig4
+A044979	basdig4	1	-1	  		basdig4
+A044980	basdig4	1	-1	  		basdig4
+A044981	basdig4	1	-1	  		basdig4
+A044982	basdig4	1	-1	  		basdig4
+A044983	basdig4	1	-1	  		basdig4
+A044984	basdig4	1	-1	  		basdig4
+A044985	basdig4	1	-1	  		basdig4
+A044986	basdig4	1	-1	  		basdig4
+A044987	basdig4	1	-1	  		basdig4
+A044988	basdig4	1	-1	  		basdig4
+A044989	basdig4	1	-1	  		basdig4
+A044990	basdig4	1	-1	  		basdig4
+A044991	basdig4	1	-1	  		basdig4
+A044992	basdig4	1	-1	  		basdig4
+A044993	basdig4	1	-1	  		basdig4
+A044994	basdig4	1	-1	  		basdig4
+A044995	basdig4	1	-1	  		basdig4
+A044996	basdig4	1	-1	  		basdig4
+A044997	basdig4	1	-1	  		basdig4
+A044998	basdig4	1	-1	  		basdig4
+A044999	basdig4	1	-1	  		basdig4
+A045000	basdig4	1	-1	  		basdig4
+A045001	basdig4	1	-1	  		basdig4
+A045002	basdig4	1	-1	  		basdig4
+A045003	basdig4	1	-1	  		basdig4
+A045004	basdig4	1	-1	  		basdig4
+A045005	basdig4	1	-1	  		basdig4
+A045006	basdig4	1	-1	  		basdig4
+A045007	basdig4	1	-1	  		basdig4
+A045008	basdig4	1	-1	  		basdig4
+A045009	basdig4	1	-1	  		basdig4
+A045010	basdig4	1	-1	  		basdig4
+A045011	basdig4	1	-1	  		basdig4
+A045012	basdig4	1	-1	  		basdig4
+A045013	basdig4	1	-1	  		basdig4
+A045014	basdig4	1	-1	  		basdig4
+A045015	basdig4	1	-1	  		basdig4
+A045016	basdig4	1	-1	  		basdig4
+A045017	basdig4	1	-1	  		basdig4
+A045018	basdig4	1	-1	  		basdig4
+A045019	basdig4	1	-1	  		basdig4
+A045020	basdig4	1	-1	  		basdig4
+A045021	basdig4	1	-1	  		basdig4
+A045022	basdig4	1	-1	  		basdig4
+A045023	basdig4	1	-1	  		basdig4
+A045024	basdig4	1	-1	  		basdig4
+A045025	basdig4	1	-1	  		basdig4
+A045026	basdig4	1	-1	  		basdig4
+A045027	basdig4	1	-1	  		basdig4
+A045028	basdig4	1	-1	  		basdig4
+A045029	basdig4	1	-1	  		basdig4
+A045030	basdig4	1	-1	  		basdig4
+A045031	basdig4	1	-1	  		basdig4
+A045032	basdig4	1	-1	  		basdig4
+A045033	basdig4	1	-1	  		basdig4
+A045034	basdig4	1	-1	  		basdig4
+A045035	basdig4	1	-1	  		basdig4
+A045036	basdig4	1	-1	  		basdig4
+A045037	basdig4	1	-1	  		basdig4
+A045038	basdig4	1	-1	  		basdig4
+A045039	basdig4	1	-1	  		basdig4
+A045040	basdig4	1	-1	  		basdig4
+A045041	basdig4	1	-1	  		basdig4
+A045042	basdig4	1	-1	  		basdig4
+A045043	basdig4	1	-1	  		basdig4
+A045044	basdig4	1	-1	  		basdig4
+A045045	basdig4	1	-1	  		basdig4
+A045046	basdig4	1	-1	  		basdig4
+A045047	basdig4	1	-1	  		basdig4
+A045048	basdig4	1	-1	  		basdig4
+A045049	basdig4	1	-1	  		basdig4
+A045050	basdig4	1	-1	  		basdig4
+A045051	basdig4	1	-1	  		basdig4
+A045052	basdig4	1	-1	  		basdig4
+A045053	basdig4	1	-1	  		basdig4
+A045054	basdig4	1	-1	  		basdig4
+A045055	basdig4	1	-1	  		basdig4
+A045056	basdig4	1	-1	  		basdig4
+A045057	basdig4	1	-1	  		basdig4
+A045058	basdig4	1	-1	  		basdig4
+A045059	basdig4	1	-1	  		basdig4
+A045060	basdig4	1	-1	  		basdig4
+A045061	basdig4	1	-1	  		basdig4
+A045062	basdig4	1	-1	  		basdig4
+A045063	basdig4	1	-1	  		basdig4
+A045064	basdig4	1	-1	  		basdig4
+A045065	basdig4	1	-1	  		basdig4
+A045066	basdig4	1	-1	  		basdig4
+A045067	basdig4	1	-1	  		basdig4
+A045068	basdig4	1	-1	  		basdig4
+A045069	basdig4	1	-1	  		basdig4
+A045070	basdig4	1	-1	  		basdig4
+A045071	basdig4	1	-1	  		basdig4
+A045072	basdig4	1	-1	  		basdig4
+A045073	basdig4	1	-1	  		basdig4
+A045074	basdig4	1	-1	  		basdig4
+A045075	basdig4	1	-1	  		basdig4
+A045076	basdig4	1	-1	  		basdig4
+A045077	basdig4	1	-1	  		basdig4
+A045078	basdig4	1	-1	  		basdig4
+A045079	basdig4	1	-1	  		basdig4
+A045080	basdig4	1	-1	  		basdig4
+A045081	basdig4	1	-1	  		basdig4
+A045082	basdig4	1	-1	  		basdig4
+A045083	basdig4	1	-1	  		basdig4
+A045084	basdig4	1	-1	  		basdig4
+A045085	basdig4	1	-1	  		basdig4
+A045086	basdig4	1	-1	  		basdig4
+A045087	basdig4	1	-1	  		basdig4
+A045088	basdig4	1	-1	  		basdig4
+A045089	basdig4	1	-1	  		basdig4
+A045090	basdig4	1	-1	  		basdig4
+A045091	basdig4	1	-1	  		basdig4
+A045092	basdig4	1	-1	  		basdig4
+A045093	basdig4	1	-1	  		basdig4
+A045094	basdig4	1	-1	  		basdig4
+A045095	basdig4	1	-1	  		basdig4
+A045096	basdig4	1	-1	  		basdig4
+A045097	basdig4	1	-1	  		basdig4
+A045098	basdig4	1	-1	  		basdig4
+A045099	basdig4	1	-1	  		basdig4
+A045100	basdig4	1	-1	  		basdig4
+A045101	basdig4	1	-1	  		basdig4
+A045102	basdig4	1	-1	  		basdig4
+A045103	basdig4	1	-1	  		basdig4
+A045104	basdig4	1	-1	  		basdig4
+A045105	basdig4	1	-1	  		basdig4
+A045106	basdig4	1	-1	  		basdig4
+A045107	basdig4	1	-1	  		basdig4
+A045108	basdig4	1	-1	  		basdig4
+A045109	basdig4	1	-1	  		basdig4
+A045110	basdig4	1	-1	  		basdig4
+A045111	basdig4	1	-1	  		basdig4
+A045112	basdig4	1	-1	  		basdig4
+A045113	basdig4	1	-1	  		basdig4
+A045114	basdig4	1	-1	  		basdig4
+A045115	basdig4	1	-1	  		basdig4
+A045116	basdig4	1	-1	  		basdig4
+A045117	basdig4	1	-1	  		basdig4
+A045118	basdig4	1	-1	  		basdig4
+A045119	basdig4	1	-1	  		basdig4
+A045120	basdig4	1	-1	  		basdig4
+A045121	basdig4	1	-1	  		basdig4
+A045122	basdig4	1	-1	  		basdig4
+A045123	basdig4	1	-1	  		basdig4
+A045124	basdig4	1	-1	  		basdig4
+A045125	basdig4	1	-1	  		basdig4
+A045126	basdig4	1	-1	  		basdig4
+A045127	basdig4	1	-1	  		basdig4
+A045128	basdig4	1	-1	  		basdig4
+A045129	basdig4	1	-1	  		basdig4
+A045130	basdig4	1	-1	  		basdig4
+A045131	basdig4	1	-1	  		basdig4
+A045132	basdig4	1	-1	  		basdig4
+A045133	basdig4	1	-1	  		basdig4
+A045134	basdig4	1	-1	  		basdig4
+A045135	basdig4	1	-1	  		basdig4
+A045136	basdig4	1	-1	  		basdig4
+A045137	basdig4	1	-1	  		basdig4
+A045138	basdig4	1	-1	  		basdig4
+A045139	basdig4	1	-1	  		basdig4
+A045140	basdig4	1	-1	  		basdig4
+A045141	basdig4	1	-1	  		basdig4
+A045142	basdig4	1	-1	  		basdig4
+A045143	basdig4	1	-1	  		basdig4
+A045144	basdig4	1	-1	  		basdig4
+A045145	basdig4	1	-1	  		basdig4
+A045146	basdig4	1	-1	  		basdig4
+A045147	basdig4	1	-1	  		basdig4
+A045148	basdig4	1	-1	  		basdig4
+A045149	basdig4	1	-1	  		basdig4
+A045150	basdig4	1	-1	  		basdig4
+A045151	basdig4	1	-1	  		basdig4
+A045152	basdig4	1	-1	  		basdig4
+A045153	basdig4	1	-1	  		basdig4
+A045154	basdig4	1	-1	  		basdig4
+A045155	basdig4	1	-1	  		basdig4
+A045156	basdig4	1	-1	  		basdig4
+A045157	basdig4	1	-1	  		basdig4
+A045158	basdig4	1	-1	  		basdig4
+A045159	basdig4	1	-1	  		basdig4
+A045160	basdig4	1	-1	  		basdig4
+A045161	basdig4	1	-1	  		basdig4
+A045162	basdig4	1	-1	  		basdig4
+A045163	basdig4	1	-1	  		basdig4
+A045164	basdig4	1	-1	  		basdig4
+A045165	basdig4	1	-1	  		basdig4
+A045166	basdig4	1	-1	  		basdig4
+A045167	basdig4	1	-1	  		basdig4
+A045168	basdig4	1	-1	  		basdig4
+A045169	basdig4	1	-1	  		basdig4
+A045170	basdig4	1	-1	  		basdig4
+A045171	basdig4	1	-1	  		basdig4
+A045172	basdig4	1	-1	  		basdig4
+A045173	basdig4	1	-1	  		basdig4
+A045174	basdig4	1	-1	  		basdig4
+A045175	basdig4	1	-1	  		basdig4
+A045176	basdig4	1	-1	  		basdig4
+A045177	basdig4	1	-1	  		basdig4
+A045178	basdig4	1	-1	  		basdig4
+A045179	basdig4	1	-1	  		basdig4
+A045180	basdig4	1	-1	  		basdig4
+A045181	basdig4	1	-1	  		basdig4
+A045182	basdig4	1	-1	  		basdig4
+A045183	basdig4	1	-1	  		basdig4
+A045184	basdig4	1	-1	  		basdig4
+A045185	basdig4	1	-1	  		basdig4
+A045186	basdig4	1	-1	  		basdig4
+A045187	basdig4	1	-1	  		basdig4
+A045188	basdig4	1	-1	  		basdig4
+A045189	basdig4	1	-1	  		basdig4
+A045190	basdig4	1	-1	  		basdig4
+A045191	basdig4	1	-1	  		basdig4
+A045192	basdig4	1	-1	  		basdig4
+A045193	basdig4	1	-1	  		basdig4
+A045194	basdig4	1	-1	  		basdig4
+A045195	basdig4	1	-1	  		basdig4
+A045196	basdig4	1	-1	  		basdig4
+A045197	basdig4	1	-1	  		basdig4
+A045198	basdig4	1	-1	  		basdig4
+A045199	basdig4	1	-1	  		basdig4
+A045200	basdig4	1	-1	  		basdig4
+A045201	basdig4	1	-1	  		basdig4
+A045202	basdig4	1	-1	  		basdig4
+A045203	basdig4	1	-1	  		basdig4
+A045204	basdig4	1	-1	  		basdig4
+A045205	basdig4	1	-1	  		basdig4
+A045206	basdig4	1	-1	  		basdig4
+A045207	basdig4	1	-1	  		basdig4
+A045208	basdig4	1	-1	  		basdig4
+A045209	basdig4	1	-1	  		basdig4
+A045210	basdig4	1	-1	  		basdig4
+A045211	basdig4	1	-1	  		basdig4
+A045212	basdig4	1	-1	  		basdig4
+A045213	basdig4	1	-1	  		basdig4
+A045214	basdig4	1	-1	  		basdig4
+A045215	basdig4	1	-1	  		basdig4
+A045216	basdig4	1	-1	  		basdig4
+A045217	basdig4	1	-1	  		basdig4
+A045218	basdig4	1	-1	  		basdig4
+A045219	basdig4	1	-1	  		basdig4
+A045220	basdig4	1	-1	  		basdig4
+A045221	basdig4	1	-1	  		basdig4
+A045222	basdig4	1	-1	  		basdig4
+A045223	basdig4	1	-1	  		basdig4
+A045224	basdig4	1	-1	  		basdig4
+A045225	basdig4	1	-1	  		basdig4
+A045226	basdig4	1	-1	  		basdig4
+A045227	basdig4	1	-1	  		basdig4
+A045228	basdig4	1	-1	  		basdig4
+A045229	basdig4	1	-1	  		basdig4
+A045230	basdig4	1	-1	  		basdig4
+A045231	basdig4	1	-1	  		basdig4
+A045232	basdig4	1	-1	  		basdig4
+A045233	basdig4	1	-1	  		basdig4
+A045234	basdig4	1	-1	  		basdig4
+A045235	basdig4	1	-1	  		basdig4
+A045236	basdig4	1	-1	  		basdig4
+A045237	basdig4	1	-1	  		basdig4
+A045238	basdig4	1	-1	  		basdig4
+A045239	basdig4	1	-1	  		basdig4
+A045240	basdig4	1	-1	  		basdig4
+A045241	basdig4	1	-1	  		basdig4
+A045242	basdig4	1	-1	  		basdig4
+A045243	basdig4	1	-1	  		basdig4
+A045244	basdig4	1	-1	  		basdig4
+A045245	basdig4	1	-1	  		basdig4
+A045246	basdig4	1	-1	  		basdig4
+A045247	basdig4	1	-1	  		basdig4
+A045248	basdig4	1	-1	  		basdig4
+A045249	basdig4	1	-1	  		basdig4
+A045250	basdig4	1	-1	  		basdig4
+A045251	basdig4	1	-1	  		basdig4
+A045252	basdig4	1	-1	  		basdig4
+A045253	basdig4	1	-1	  		basdig4
+A045254	basdig4	1	-1	  		basdig4
+A045255	basdig4	1	-1	  		basdig4
+A045256	basdig4	1	-1	  		basdig4
+A045257	basdig4	1	-1	  		basdig4
+A045258	basdig4	1	-1	  		basdig4
+A045259	basdig4	1	-1	  		basdig4
+A045260	basdig4	1	-1	  		basdig4
+A045261	basdig4	1	-1	  		basdig4
+A045262	basdig4	1	-1	  		basdig4
+A045263	basdig4	1	-1	  		basdig4
+A045264	basdig4	1	-1	  		basdig4
+A045265	basdig4	1	-1	  		basdig4
+A045266	basdig4	1	-1	  		basdig4
+A045267	basdig4	1	-1	  		basdig4
+A045268	basdig4	1	-1	  		basdig4
+A045269	basdig4	1	-1	  		basdig4
+A045270	basdig4	1	-1	  		basdig4
+A045271	basdig4	1	-1	  		basdig4
+A045272	basdig4	1	-1	  		basdig4
+A045273	basdig4	1	-1	  		basdig4
+A045274	basdig4	1	-1	  		basdig4
+A045275	basdig4	1	-1	  		basdig4
+A045276	basdig4	1	-1	  		basdig4
+A045277	basdig4	1	-1	  		basdig4
+A045278	basdig4	1	-1	  		basdig4
+A045279	basdig4	1	-1	  		basdig4
+A045280	basdig4	1	-1	  		basdig4
+A045281	basdig4	1	-1	  		basdig4
+A045282	basdig4	1	-1	  		basdig4
+A045283	basdig4	1	-1	  		basdig4
+A045284	basdig4	1	-1	  		basdig4
+A045285	basdig4	1	-1	  		basdig4
+A045286	basdig4	1	-1	  		basdig4
+A045287	basdig4	1	-1	  		basdig4
+A045288	basdig4	1	-1	  		basdig4
+A045289	basdig4	1	-1	  		basdig4
+A045290	basdig4	1	-1	  		basdig4
+A045291	basdig4	1	-1	  		basdig4
+A045292	basdig4	1	-1	  		basdig4
+A045293	basdig4	1	-1	  		basdig4
+A045294	basdig4	1	-1	  		basdig4
+A045295	basdig4	1	-1	  		basdig4
+A045296	basdig4	1	-1	  		basdig4
+A045297	basdig4	1	-1	  		basdig4
+A045298	basdig4	1	-1	  		basdig4
+A045299	basdig4	1	-1	  		basdig4
+A045300	basdig4	1	-1	  		basdig4
+A045301	basdig4	1	-1	  		basdig4
+A045302	basdig4	1	-1	  		basdig4
+A045303	basdig4	1	-1	  		basdig4
+A045304	basdig4	1	-1	  		basdig4
+A045305	basdig4	1	-1	  		basdig4
+A045306	basdig4	1	-1	  		basdig4
+A045307	basdig4	1	-1	  		basdig4
+A296691	basraifal	0	1	  		basraifal
+A296692	basraifal	0	1	  		basraifal
+A296693	basraifal	0	1	  		basraifal
+A296694	basraifal	0	1	  		basraifal
+A296695	basraifal	0	1	  		basraifal
+A296696	basraifal	0	1	  		basraifal
+A296697	basraifal	0	1	  		basraifal
+A296698	basraifal	0	1	  		basraifal
+A296699	basraifal	0	1	  		basraifal
+A296700	basraifal	0	1	  		basraifal
+A296701	basraifal	0	1	  		basraifal
+A296702	basraifal	0	1	  		basraifal
+A296703	basraifal	0	1	  		basraifal
+A296704	basraifal	0	1	  		basraifal
+A296705	basraifal	0	1	  		basraifal
+A296706	basraifal	0	1	  		basraifal
+A296707	basraifal	0	1	  		basraifal
+A296708	basraifal	0	1	  		basraifal
+A296709	basraifal	0	1	  		basraifal
+A296710	basraifal	0	1	  		basraifal
+A296711	basraifal	0	1	  		basraifal
+A296712	basraifal	0	1	  		basraifal
+A296713	basraifal	0	1	  		basraifal
+A296714	basraifal	0	1	  		basraifal
+A296744	basraifal	0	1	  		basraifal
+A296745	basraifal	0	1	  		basraifal
+A296746	basraifal	0	1	  		basraifal
+A296747	basraifal	0	1	  		basraifal
+A296748	basraifal	0	1	  		basraifal
+A296749	basraifal	0	1	  		basraifal
+A296750	basraifal	0	1	  		basraifal
+A296751	basraifal	0	1	  		basraifal
+A296752	basraifal	0	1	  		basraifal
+A296753	basraifal	0	1	  		basraifal
+A296754	basraifal	0	1	  		basraifal
+A296755	basraifal	0	1	  		basraifal
+A296756	basraifal	0	1	  		basraifal
+A296757	basraifal	0	1	  		basraifal
+A296758	basraifal	0	1	  		basraifal
+A296759	basraifal	0	1	  		basraifal
+A296760	basraifal	0	1	  		basraifal
+A296761	basraifal	0	1	  		basraifal
+A296762	basraifal	0	1	  		basraifal
+A296763	basraifal	0	1	  		basraifal
+A296764	basraifal	0	1	  		basraifal
+A296765	basraifal	0	1	  		basraifal
+A296766	basraifal	0	1	  		basraifal
+A296767	basraifal	0	1	  		basraifal
+A296858	baspitpeak	0	1	  		baspitpeak
+A296859	baspitpeak	0	1	  		baspitpeak
+A296860	baspitpeak	0	1	  		baspitpeak
+A296861	baspitpeak	0	1	  		baspitpeak
+A296862	baspitpeak	0	1	  		baspitpeak
+A296863	baspitpeak	0	1	  		baspitpeak
+A296864	baspitpeak	0	1	  		baspitpeak
+A296865	baspitpeak	0	1	  		baspitpeak
+A296866	baspitpeak	0	1	  		baspitpeak
+A296867	baspitpeak	0	1	  		baspitpeak
+A296868	baspitpeak	0	1	  		baspitpeak
+A296869	baspitpeak	0	1	  		baspitpeak
+A296870	baspitpeak	0	1	  		baspitpeak
+A296871	baspitpeak	0	1	  		baspitpeak
+A296872	baspitpeak	0	1	  		baspitpeak
+A296873	baspitpeak	0	1	  		baspitpeak
+A296874	baspitpeak	0	1	  		baspitpeak
+A296875	baspitpeak	0	1	  		baspitpeak
+A296876	baspitpeak	0	1	  		baspitpeak
+A296877	baspitpeak	0	1	  		baspitpeak
+A296878	baspitpeak	0	1	  		baspitpeak
+A296879	baspitpeak	0	1	  		baspitpeak
+A296880	baspitpeak	0	1	  		baspitpeak
+A296881	baspitpeak	0	1	  		baspitpeak
+A296882	baspitpeak	0	1	  		baspitpeak
+A296883	baspitpeak	0	1	  		baspitpeak
+A296884	baspitpeak	0	1	  		baspitpeak
+A296885	baspitpeak	0	1	  		baspitpeak
+A296886	baspitpeak	0	1	  		baspitpeak
+A296887	baspitpeak	0	1	  		baspitpeak
+A296888	baspitpeak	0	1	  		baspitpeak
+A296889	baspitpeak	0	1	  		baspitpeak
+A296890	baspitpeak	0	1	  		baspitpeak
+A296891	baspitpeak	0	1	  		baspitpeak
+A296892	baspitpeak	0	1	  		baspitpeak
+A296893	baspitpeak	0	1	  		baspitpeak
+A296894	baspitpeak	0	1	  		baspitpeak
+A296895	baspitpeak	0	1	  		baspitpeak
+A296896	baspitpeak	0	1	  		baspitpeak
+A296897	baspitpeak	0	1	  		baspitpeak
+A296898	baspitpeak	0	1	  		baspitpeak
+A296899	baspitpeak	0	1	  		baspitpeak
+A296900	baspitpeak	0	1	  		baspitpeak
+A296901	baspitpeak	0	1	  		baspitpeak
+A296902	baspitpeak	0	1	  		baspitpeak
+A296903	baspitpeak	0	1	  		baspitpeak
+A296904	baspitpeak	0	1	  		baspitpeak
+A296905	baspitpeak	0	1	  		baspitpeak
+A296906	baspitpeak	0	1	  		baspitpeak
+A296907	baspitpeak	0	1	  		baspitpeak
+A296908	baspitpeak	0	1	  		baspitpeak
+A297030	baspiece	0	1	  		baspiece
+A297031	baspiece	0	1	  		baspiece
+A297032	baspiece	0	1	  		baspiece
+A297033	baspiece	0	1	  		baspiece
+A297034	baspiece	0	1	  		baspiece
+A297035	baspiece	0	1	  		baspiece
+A297036	baspiece	0	1	  		baspiece
+A297037	baspiece	0	1	  		baspiece
+A297038	baspiece	0	1	  		baspiece
+A297039	baspiece	0	1	  		baspiece
+A297040	baspiece	0	1	  		baspiece
+A297041	baspiece	0	1	  		baspiece
+A297042	baspiece	0	1	  		baspiece
+A297043	baspiece	0	1	  		baspiece
+A297044	baspiece	0	1	  		baspiece
+A297045	baspiece	0	1	  		baspiece
+A297046	baspiece	0	1	  		baspiece
+A297124	baszigzag	0	1	  		baszigzag
+A297125	baszigzag	0	1	  		baszigzag
+A297126	baszigzag	0	1	  		baszigzag
+A297128	baszigzag	0	1	  		baszigzag
+A297129	baszigzag	0	1	  		baszigzag
+A297130	baszigzag	0	1	  		baszigzag
+A297131	baszigzag	0	1	  		baszigzag
+A297132	baszigzag	0	1	  		baszigzag
+A297133	baszigzag	0	1	  		baszigzag
+A297134	baszigzag	0	1	  		baszigzag
+A297135	baszigzag	0	1	  		baszigzag
+A297136	baszigzag	0	1	  		baszigzag
+A297137	baszigzag	0	1	  		baszigzag
+A297138	baszigzag	0	1	  		baszigzag
+A297139	baszigzag	0	1	  		baszigzag
+A297140	baszigzag	0	1	  		baszigzag
+A297141	baszigzag	0	1	  		baszigzag
+A297142	baszigzag	0	1	  		baszigzag
+A297143	baszigzag	0	1	  		baszigzag
+A297144	baszigzag	0	1	  		baszigzag
+A297145	baszigzag	0	1	  		baszigzag
+A297146	baszigzag	0	1	  		baszigzag
+A297147	baszigzag	0	1	  		baszigzag
+A297148	baszigzag	0	1	  		baszigzag
+A297231	basvardut	0	1	  		basvardut
+A297232	basvardut	0	1	  		basvardut
+A297233	basvardut	0	1	  		basvardut
+A297234	basvardut	0	1	  		basvardut
+A297235	basvardut	0	1	  		basvardut
+A297236	basvardut	0	1	  		basvardut
+A297237	basvardut	0	1	  		basvardut
+A297238	basvardut	0	1	  		basvardut
+A297239	basvardut	0	1	  		basvardut
+A297240	basvardut	0	1	  		basvardut
+A297241	basvardut	0	1	  		basvardut
+A297242	basvardut	0	1	  		basvardut
+A297243	basvardut	0	1	  		basvardut
+A297244	basvardut	0	1	  		basvardut
+A297245	basvardut	0	1	  		basvardut
+A297246	basvardut	0	1	  		basvardut
+A297247	basvardut	0	1	  		basvardut
+A297248	basvardut	0	1	  		basvardut
+A297249	basvarsig	0	1	  		basvarsig
+A297250	basvarsig	0	1	  		basvarsig
+A297251	basvarsig	0	1	  		basvarsig
+A297252	basvarsig	0	1	  		basvarsig
+A297253	basvarsig	0	1	  		basvarsig
+A297254	basvarsig	0	1	  		basvarsig
+A297255	basvarsig	0	1	  		basvarsig
+A297256	basvarsig	0	1	  		basvarsig
+A297257	basvarsig	0	1	  		basvarsig
+A297258	basvarsig	0	1	  		basvarsig
+A297259	basvarsig	0	1	  		basvarsig
+A297260	basvarsig	0	1	  		basvarsig
+A297261	basvarsig	0	1	  		basvarsig
+A297262	basvarsig	0	1	  		basvarsig
+A297263	basvarsig	0	1	  		basvarsig
+A297264	basvarsig	0	1	  		basvarsig
+A297265	basvarsig	0	1	  		basvarsig
+A297266	basvarsig	0	1	  		basvarsig
+A297267	basvarsig	0	1	  		basvarsig
+A297268	basvarsig	0	1	  		basvarsig
+A297269	basvarsig	0	1	  		basvarsig
+A297270	basvarsig	0	1	  		basvarsig
+A297271	basvarsig	0	1	  		basvarsig
+A297272	basvarsig	0	1	  		basvarsig
+A297273	basvarsig	0	1	  		basvarsig
+A297274	basvarsig	0	1	  		basvarsig
+A297275	basvarsig	0	1	  		basvarsig
+A297276	basvarsig	0	1	  		basvarsig
+A297277	basvarsig	0	1	  		basvarsig
+A297278	basvarsig	0	1	  		basvarsig
+A297279	basvarsig	0	1	  		basvarsig
+A297280	basvarsig	0	1	  		basvarsig
+A297281	basvarsig	0	1	  		basvarsig
+A297282	basvarsig	0	1	  		basvarsig
+A297283	basvarsig	0	1	  		basvarsig
+A297284	basvarsig	0	1	  		basvarsig
+A297285	basvarsig	0	1	  		basvarsig
+A297286	basvarsig	0	1	  		basvarsig
+A297287	basvarsig	0	1	  		basvarsig
+A297288	basvarsig	0	1	  		basvarsig
+A297289	basvarsig	0	1	  		basvarsig
+A297290	basvarsig	0	1	  		basvarsig
+A297330	basvardut	0	1	  		basvardut
+A297770	basrundist	0	1	  		basrundist
+A297771	basrundist	0	1	  		basrundist
+A297772	basrundist	0	1	  		basrundist
+A297773	basrundist	0	1	  		basrundist
+A297774	basrundist	0	1	  		basrundist
+A297775	basrundist	0	1	  		basrundist
+A297776	basrundist	0	1	  		basrundist
+A297777	basrundist	0	1	  		basrundist
+A297778	basrundist	0	1	  		basrundist
+A297779	basrundist	0	1	  		basrundist
+A297780	basrundist	0	1	  		basrundist
+A297781	basrundist	0	1	  		basrundist
+A297782	basrundist	0	1	  		basrundist
+A297783	basrundist	0	1	  		basrundist
+A297784	basrundist	0	1	  		basrundist

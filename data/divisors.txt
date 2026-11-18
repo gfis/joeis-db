@@ -1,0 +1,639 @@
+A003523	divisors3	1	2	10	-1
+A003524	divisors3	1	2	12	-1
+A003525	divisors3	1	2	14	-1
+A003526	divisors3	1	2	15	-1
+A003527	divisors3	1	2	16	-1
+A003528	divisors3	1	2	18	-1
+A003529	divisors3	1	2	20	-1
+A003530	divisors3	1	2	21	-1
+A003531	divisors3	1	2	22	-1
+A003533	divisors3	1	2	25	-1
+A003534	divisors3	1	2	26	-1
+A003535	divisors3	1	2	27	-1
+A003536	divisors3	1	2	28	-1
+A003537	divisors3	1	2	29	-1
+A003538	divisors3	1	2	30	-1
+A003540	divisors3	1	2	33	-1
+A003541	divisors3	1	2	34	-1
+A003542	divisors3	1	2	35	-1
+A003543	divisors3	1	2	36	-1
+A003544	divisors3	1	2	38	-1
+A003545	divisors3	1	2	39	-1
+A003546	divisors3	1	2	40	-1
+A003547	divisors3	1	2	42	-1
+A003548	divisors3	1	2	43	-1
+A003549	divisors3	1	2	44	-1
+A003550	divisors3	1	2	45	-1
+A003551	divisors3	1	2	46	-1
+A003552	divisors3	1	2	47	-1
+A003553	divisors3	1	2	48	-1
+A003554	divisors3	1	2	50	-1
+A018251	divisors	1	18
+A018253	divisors	1	24
+A018254	divisors	1	28
+A018255	divisors	1	30
+A018256	divisors	1	36
+A018257	divisors	1	40
+A018258	divisors	1	42
+A018259	divisors	1	44
+A018260	divisors	1	45
+A018261	divisors	1	48
+A018262	divisors	1	50
+A018263	divisors	1	52
+A018264	divisors	1	54
+A018265	divisors	1	56
+A018266	divisors	1	60
+A018267	divisors	1	63
+A018268	divisors	1	66
+A018269	divisors	1	68
+A018270	divisors	1	70
+A018271	divisors	1	72
+A018272	divisors	1	75
+A018273	divisors	1	76
+A018274	divisors	1	78
+A018275	divisors	1	80
+A018276	divisors	1	84
+A018277	divisors	1	88
+A018278	divisors	1	90
+A018279	divisors	1	92
+A018280	divisors	1	96
+A018281	divisors	1	98
+A018282	divisors	1	99
+A018283	divisors	1	100
+A018284	divisors	1	102
+A018285	divisors	1	104
+A018286	divisors	1	105
+A018287	divisors	1	108
+A018288	divisors	1	110
+A018289	divisors	1	112
+A018290	divisors	1	114
+A018291	divisors	1	116
+A018292	divisors	1	117
+A018293	divisors	1	120
+A018294	divisors	1	124
+A018295	divisors	1	126
+A018296	divisors	1	130
+A018297	divisors	1	132
+A018298	divisors	1	135
+A018299	divisors	1	136
+A018300	divisors	1	138
+A018301	divisors	1	140
+A018302	divisors	1	144
+A018303	divisors	1	147
+A018304	divisors	1	148
+A018305	divisors	1	150
+A018306	divisors	1	152
+A018307	divisors	1	153
+A018308	divisors	1	154
+A018309	divisors	1	156
+A018310	divisors	1	160
+A018311	divisors	1	162
+A018312	divisors	1	164
+A018313	divisors	1	165
+A018314	divisors	1	168
+A018315	divisors	1	170
+A018316	divisors	1	171
+A018317	divisors	1	172
+A018318	divisors	1	174
+A018319	divisors	1	175
+A018320	divisors	1	176
+A018321	divisors	1	180
+A018322	divisors	1	182
+A018323	divisors	1	184
+A018324	divisors	1	186
+A018325	divisors	1	188
+A018326	divisors	1	189
+A018327	divisors	1	190
+A018328	divisors	1	192
+A018329	divisors	1	195
+A018330	divisors	1	196
+A018331	divisors	1	198
+A018332	divisors	1	200
+A018333	divisors	1	204
+A018334	divisors	1	207
+A018335	divisors	1	208
+A018336	divisors	1	210
+A018337	divisors	1	212
+A018338	divisors	1	216
+A018339	divisors	1	220
+A018340	divisors	1	222
+A018341	divisors	1	224
+A018342	divisors	1	225
+A018343	divisors	1	228
+A018344	divisors	1	230
+A018345	divisors	1	231
+A018346	divisors	1	232
+A018347	divisors	1	234
+A018348	divisors	1	236
+A018349	divisors	1	238
+A018350	divisors	1	240
+A018351	divisors	1	242
+A018352	divisors	1	244
+A018353	divisors	1	245
+A018354	divisors	1	246
+A018355	divisors	1	248
+A018356	divisors	1	250
+A018357	divisors	1	252
+A018358	divisors	1	255
+A018359	divisors	1	258
+A018360	divisors	1	260
+A018361	divisors	1	261
+A018362	divisors	1	264
+A018363	divisors	1	266
+A018364	divisors	1	268
+A018365	divisors	1	270
+A018366	divisors	1	272
+A018367	divisors	1	273
+A018368	divisors	1	275
+A018369	divisors	1	276
+A018370	divisors	1	279
+A018371	divisors	1	280
+A018372	divisors	1	282
+A018373	divisors	1	284
+A018374	divisors	1	285
+A018375	divisors	1	286
+A018376	divisors	1	288
+A018377	divisors	1	290
+A018378	divisors	1	292
+A018379	divisors	1	294
+A018380	divisors	1	296
+A018381	divisors	1	297
+A018382	divisors	1	300
+A018383	divisors	1	304
+A018384	divisors	1	306
+A018385	divisors	1	308
+A018386	divisors	1	310
+A018387	divisors	1	312
+A018388	divisors	1	315
+A018389	divisors	1	316
+A018390	divisors	1	318
+A018391	divisors	1	320
+A018392	divisors	1	322
+A018393	divisors	1	324
+A018394	divisors	1	325
+A018395	divisors	1	328
+A018396	divisors	1	330
+A018397	divisors	1	332
+A018398	divisors	1	333
+A018399	divisors	1	336
+A018400	divisors	1	338
+A018401	divisors	1	340
+A018402	divisors	1	342
+A018403	divisors	1	344
+A018404	divisors	1	345
+A018405	divisors	1	348
+A018406	divisors	1	350
+A018407	divisors	1	351
+A018408	divisors	1	352
+A018409	divisors	1	354
+A018410	divisors	1	356
+A018411	divisors	1	357
+A018412	divisors	1	360
+A018413	divisors	1	363
+A018414	divisors	1	364
+A018415	divisors	1	366
+A018416	divisors	1	368
+A018417	divisors	1	369
+A018418	divisors	1	370
+A018419	divisors	1	372
+A018420	divisors	1	374
+A018421	divisors	1	375
+A018422	divisors	1	376
+A018423	divisors	1	378
+A018424	divisors	1	380
+A018425	divisors	1	384
+A018426	divisors	1	385
+A018427	divisors	1	387
+A018428	divisors	1	388
+A018429	divisors	1	390
+A018430	divisors	1	392
+A018431	divisors	1	396
+A018432	divisors	1	399
+A018433	divisors	1	400
+A018434	divisors	1	402
+A018435	divisors	1	404
+A018436	divisors	1	405
+A018437	divisors	1	406
+A018438	divisors	1	408
+A018439	divisors	1	410
+A018440	divisors	1	412
+A018441	divisors	1	414
+A018442	divisors	1	416
+A018443	divisors	1	418
+A018444	divisors	1	420
+A018445	divisors	1	423
+A018446	divisors	1	424
+A018447	divisors	1	425
+A018448	divisors	1	426
+A018449	divisors	1	428
+A018450	divisors	1	429
+A018451	divisors	1	430
+A018452	divisors	1	432
+A018453	divisors	1	434
+A018454	divisors	1	435
+A018455	divisors	1	436
+A018456	divisors	1	438
+A018457	divisors	1	440
+A018458	divisors	1	441
+A018459	divisors	1	442
+A018460	divisors	1	444
+A018461	divisors	1	448
+A018462	divisors	1	450
+A018463	divisors	1	452
+A018464	divisors	1	455
+A018465	divisors	1	456
+A018466	divisors	1	459
+A018467	divisors	1	460
+A018468	divisors	1	462
+A018469	divisors	1	464
+A018470	divisors	1	465
+A018471	divisors	1	468
+A018472	divisors	1	470
+A018473	divisors	1	472
+A018474	divisors	1	474
+A018475	divisors	1	475
+A018476	divisors	1	476
+A018477	divisors	1	477
+A018478	divisors	1	480
+A018479	divisors	1	483
+A018480	divisors	1	484
+A018481	divisors	1	486
+A018482	divisors	1	488
+A018483	divisors	1	490
+A018484	divisors	1	492
+A018485	divisors	1	494
+A018486	divisors	1	495
+A018487	divisors	1	496
+A018488	divisors	1	498
+A018489	divisors	1	500
+A018490	divisors	1	504
+A018491	divisors	1	506
+A018492	divisors	1	507
+A018493	divisors	1	508
+A018494	divisors	1	510
+A018495	divisors	1	513
+A018496	divisors	1	516
+A018497	divisors	1	518
+A018498	divisors	1	520
+A018499	divisors	1	522
+A018500	divisors	1	524
+A018501	divisors	1	525
+A018502	divisors	1	528
+A018503	divisors	1	530
+A018504	divisors	1	531
+A018505	divisors	1	532
+A018506	divisors	1	534
+A018507	divisors	1	536
+A018508	divisors	1	539
+A018509	divisors	1	540
+A018510	divisors	1	544
+A018511	divisors	1	546
+A018512	divisors	1	548
+A018513	divisors	1	549
+A018514	divisors	1	550
+A018515	divisors	1	552
+A018516	divisors	1	555
+A018517	divisors	1	556
+A018518	divisors	1	558
+A018519	divisors	1	560
+A018520	divisors	1	561
+A018521	divisors	1	564
+A018522	divisors	1	567
+A018523	divisors	1	568
+A018524	divisors	1	570
+A018525	divisors	1	572
+A018526	divisors	1	574
+A018527	divisors	1	575
+A018528	divisors	1	576
+A018529	divisors	1	578
+A018530	divisors	1	580
+A018531	divisors	1	582
+A018532	divisors	1	584
+A018533	divisors	1	585
+A018534	divisors	1	588
+A018535	divisors	1	590
+A018536	divisors	1	592
+A018537	divisors	1	594
+A018538	divisors	1	595
+A018539	divisors	1	596
+A018540	divisors	1	598
+A018541	divisors	1	600
+A018542	divisors	1	602
+A018543	divisors	1	603
+A018544	divisors	1	604
+A018545	divisors	1	605
+A018546	divisors	1	606
+A018547	divisors	1	608
+A018548	divisors	1	609
+A018549	divisors	1	610
+A018550	divisors	1	612
+A018551	divisors	1	615
+A018552	divisors	1	616
+A018553	divisors	1	618
+A018554	divisors	1	620
+A018555	divisors	1	621
+A018556	divisors	1	624
+A018557	divisors	1	627
+A018558	divisors	1	628
+A018559	divisors	1	630
+A018560	divisors	1	632
+A018561	divisors	1	636
+A018562	divisors	1	637
+A018563	divisors	1	638
+A018564	divisors	1	639
+A018565	divisors	1	640
+A018566	divisors	1	642
+A018567	divisors	1	644
+A018568	divisors	1	645
+A018569	divisors	1	646
+A018570	divisors	1	648
+A018571	divisors	1	650
+A018572	divisors	1	651
+A018573	divisors	1	652
+A018574	divisors	1	654
+A018575	divisors	1	656
+A018576	divisors	1	657
+A018577	divisors	1	658
+A018578	divisors	1	660
+A018579	divisors	1	663
+A018580	divisors	1	664
+A018581	divisors	1	665
+A018582	divisors	1	666
+A018583	divisors	1	668
+A018584	divisors	1	670
+A018585	divisors	1	672
+A018586	divisors	1	675
+A018587	divisors	1	676
+A018588	divisors	1	678
+A018589	divisors	1	680
+A018590	divisors	1	682
+A018591	divisors	1	684
+A018592	divisors	1	686
+A018593	divisors	1	688
+A018594	divisors	1	690
+A018595	divisors	1	692
+A018596	divisors	1	693
+A018597	divisors	1	696
+A018598	divisors	1	700
+A018599	divisors	1	702
+A018600	divisors	1	704
+A018601	divisors	1	705
+A018602	divisors	1	708
+A018603	divisors	1	710
+A018604	divisors	1	711
+A018605	divisors	1	712
+A018606	divisors	1	714
+A018607	divisors	1	715
+A018608	divisors	1	716
+A018609	divisors	1	720
+A018610	divisors	1	722
+A018611	divisors	1	724
+A018612	divisors	1	725
+A018613	divisors	1	726
+A018614	divisors	1	728
+A018615	divisors	1	730
+A018616	divisors	1	732
+A018617	divisors	1	735
+A018618	divisors	1	736
+A018619	divisors	1	738
+A018620	divisors	1	740
+A018621	divisors	1	741
+A018622	divisors	1	742
+A018623	divisors	1	744
+A018624	divisors	1	747
+A018625	divisors	1	748
+A018626	divisors	1	750
+A018627	divisors	1	752
+A018628	divisors	1	754
+A018629	divisors	1	756
+A018630	divisors	1	759
+A018631	divisors	1	760
+A018632	divisors	1	762
+A018633	divisors	1	764
+A018634	divisors	1	765
+A018635	divisors	1	768
+A018636	divisors	1	770
+A018637	divisors	1	772
+A018638	divisors	1	774
+A018639	divisors	1	775
+A018640	divisors	1	776
+A018641	divisors	1	777
+A018642	divisors	1	780
+A018643	divisors	1	782
+A018644	divisors	1	783
+A018645	divisors	1	784
+A018646	divisors	1	786
+A018647	divisors	1	788
+A018648	divisors	1	790
+A018649	divisors	1	792
+A018650	divisors	1	795
+A018651	divisors	1	796
+A018652	divisors	1	798
+A018653	divisors	1	800
+A018654	divisors	1	801
+A018655	divisors	1	804
+A018656	divisors	1	805
+A018657	divisors	1	806
+A018658	divisors	1	808
+A018659	divisors	1	810
+A018660	divisors	1	812
+A018661	divisors	1	814
+A018662	divisors	1	816
+A018663	divisors	1	819
+A018664	divisors	1	820
+A018665	divisors	1	822
+A018666	divisors	1	824
+A018667	divisors	1	825
+A018668	divisors	1	826
+A018669	divisors	1	828
+A018670	divisors	1	830
+A018671	divisors	1	832
+A018672	divisors	1	833
+A018673	divisors	1	834
+A018674	divisors	1	836
+A018675	divisors	1	837
+A018676	divisors	1	840
+A018677	divisors	1	844
+A018678	divisors	1	845
+A018679	divisors	1	846
+A018680	divisors	1	847
+A018681	divisors	1	848
+A018682	divisors	1	850
+A018683	divisors	1	852
+A018684	divisors	1	854
+A018685	divisors	1	855
+A018686	divisors	1	856
+A018687	divisors	1	858
+A018688	divisors	1	860
+A018689	divisors	1	861
+A018690	divisors	1	864
+A018691	divisors	1	867
+A018692	divisors	1	868
+A018693	divisors	1	870
+A018694	divisors	1	872
+A018695	divisors	1	873
+A018696	divisors	1	874
+A018697	divisors	1	875
+A018698	divisors	1	876
+A018699	divisors	1	880
+A018700	divisors	1	882
+A018701	divisors	1	884
+A018702	divisors	1	885
+A018703	divisors	1	888
+A018704	divisors	1	890
+A018705	divisors	1	891
+A018706	divisors	1	892
+A018707	divisors	1	894
+A018708	divisors	1	896
+A018709	divisors	1	897
+A018710	divisors	1	900
+A018711	divisors	1	902
+A018712	divisors	1	903
+A018713	divisors	1	904
+A018714	divisors	1	906
+A018715	divisors	1	908
+A018716	divisors	1	909
+A018717	divisors	1	910
+A018718	divisors	1	912
+A018719	divisors	1	915
+A018720	divisors	1	916
+A018721	divisors	1	918
+A018722	divisors	1	920
+A018723	divisors	1	924
+A018724	divisors	1	925
+A018725	divisors	1	927
+A018726	divisors	1	928
+A018727	divisors	1	930
+A018728	divisors	1	931
+A018729	divisors	1	932
+A018730	divisors	1	935
+A018731	divisors	1	936
+A018732	divisors	1	938
+A018733	divisors	1	940
+A018734	divisors	1	942
+A018735	divisors	1	944
+A018736	divisors	1	945
+A018737	divisors	1	946
+A018738	divisors	1	948
+A018739	divisors	1	950
+A018740	divisors	1	952
+A018741	divisors	1	954
+A018742	divisors	1	956
+A018743	divisors	1	957
+A018744	divisors	1	960
+A018745	divisors	1	962
+A018746	divisors	1	963
+A018747	divisors	1	964
+A018748	divisors	1	966
+A018749	divisors	1	968
+A018750	divisors	1	969
+A018751	divisors	1	970
+A018752	divisors	1	972
+A018753	divisors	1	975
+A018754	divisors	1	976
+A018755	divisors	1	978
+A018756	divisors	1	980
+A018757	divisors	1	981
+A018758	divisors	1	984
+A018759	divisors	1	986
+A018760	divisors	1	987
+A018761	divisors	1	988
+A018762	divisors	1	990
+A018763	divisors	1	992
+A018764	divisors	1	994
+A018765	divisors	1	996
+A018766	divisors	1	999
+A018767	divisors	1	1000
+A018768	divisors	1	1001
+A018769	divisors	1	1002
+A018770	divisors	1	1004
+A018771	divisors	1	1005
+A018772	divisors	1	1008
+A018773	divisors	1	1010
+A018774	divisors	1	1012
+A018775	divisors	1	1014
+A018776	divisors	1	1015
+A018777	divisors	1	1016
+A018778	divisors	1	1017
+A018779	divisors	1	1020
+A018780	divisors	1	1022
+A027889	divisors3	1	10	9	-1
+A027890	divisors3	1	10	8	-1
+A027891	divisors3	1	10	7	-1
+A027892	divisors3	1	10	6	-1
+A027893	divisors3	1	10	5	-1
+A027894	divisors3	1	10	4	-1
+A027895	divisors3	1	10	10	-1
+A027896	divisors3	1	10	11	-1
+A027897	divisors3	1	10	12	-1
+A027898	divisors3	1	10	12	1
+A027899	divisors3	1	10	11	1
+A027900	divisors3	1	10	10	1
+A027901	divisors3	1	10	9	1
+A027902	divisors3	1	3	24	-1
+A035303	divisors	1	3600
+A081110	divisors3	1	2	60	-1
+A087005	divisors	1	2310
+A087006	divisors	1	30030
+A087007	divisors	1	510510
+A087008	divisors	1	9699690
+A106305	divisors3	1	10	14	-1
+A109492	divisors	1	111111
+A109933	divisors3	1	10	13	-1
+A111117	divisors3	1	10	15	-1
+A111211	divisors3	1	10	16	-1
+A113116	divisors3	1	10	17	-1
+A113522	divisors3	1	10	18	-1
+A114334	divisors	1	46656	Divisors of 6^6
+A119988	divisors	1	69371610
+A132997	divisors	1	299792458L	, the speed of light (meters/second)
+A133020	divisors	1	10000
+A133023	divisors	1	2001
+A133024	divisors	1	8128	, the 4th perfect number
+A133025	divisors	1	33550336	, the 5th perfect number
+A133027	divisors	1	1701
+A133029	divisors	1	1729	the 2nd taxicab number (also called the Hardy-Ramanujan number)
+A133030	divisors	1	5130
+A133035	divisors	1	1810
+A133036	divisors	1	1816
+A133040	divisors	1	1900
+A133075	divisors	1	2000
+A134950	divisors	1	453060
+A135553	divisors	1	11025
+A138814	divisors	1	4064	(half the 4th perfect number)
+A138815	divisors	1	16775168	(half the 5th perfect number)
+A151715	divisors	1	8855
+A151730	divisors	1	9213
+A155182	divisors	1	479001600L	12!
+A159765	divisors	1	1000000
+A161466	divisors	1	3628800	10!
+A163354	divisors	1	13237
+A165412	divisors	1	2520
+A174228	divisors	1	new Z("620448401733239439360000")	24!
+A177500	divisors	1	8064
+A178858	divisors	1	5040
+A178859	divisors	1	7560
+A178860	divisors	1	10080
+A178861	divisors	1	15120
+A178862	divisors	1	20160
+A178863	divisors	1	25200
+A178864	divisors	1	27720
+A178877	divisors	1	1260
+A178878	divisors	1	1680
+A185092	divisors	1	12
+A192716	divisors3	1	10	9	0
+A197308	divisors	1	11111111
+A198343	divisors	1	196560
+A199014	divisors	1	196884
+A239661	divisors3	1	33	2	0
+A245027	divisors3	1	7	12	-1
+A245028	divisors3	1	11	12	-1
+A245029	divisors3	1	3	36	-1
+A245030	divisors3	1	7	24	-1
+A245809	divisors	1	4620
+A247235	divisors	1	new Z("5844076785304502808013602136")
+A261072	divisors	1	new Z("1234567890987654321")
+A262609	divisors	1	1728
+A276465	divisors	1	16450
+A309510	divisors	1	196883
+A374199	divisors	1	19679625L
